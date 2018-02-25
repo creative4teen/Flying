@@ -1,0 +1,1645 @@
+fileFormatVersion: 2
+guid: 443e2aac779aff34e8206a418b1d615b
+timeCreated: 1519064417
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000e0000000e1000000e2000000e3000000e4000000e5000000e6000000e7000000e8000000e9000000ea000000eb000000ec000000ed000000ee000000ef000000f0000000f1000000f2000000f3000000f4000000f5000000f6000000f7000000f8000000f9000000fa000000fb000000fc000000fd000000fe000000ff000000000100000101000002010000030100000401000005010000060100000701000008010000090100000a0100000b0100000c0100000d0100000e0100000f010000100100001101000012010000130100001401000015010000160100001701000018010000190100001a0100001b0100001c0100001d0100001e0100001f010000200100002101000022010000230100002401000025010000260100002701000028010000290100002a0100002b0100002c0100002d0100002e0100002f010000300100003101000032010000330100003401000035010000360100003701000038010000390100003a0100003b0100003c0100003d0100003e0100003f010000400100004101000042010000430100004401000045010000460100004701000048010000490100004a0100004b0100004c0100004d0100004e0100004f010000500100005101000052010000530100005401000055010000560100005701000058010000590100005a0100005b0100005c0100005d0100005e0100005f010000600100006101000062010000630100006401000065010000660100006701000068010000690100006a0100006b0100006c0100006d0100006e0100006f010000700100007101000072010000730100007401000075010000760100007701000078010000790100007a0100007b0100007c0100007d0100007e0100007f010000800100008101000082010000830100008401000085010000860100008701000088010000890100008a0100008b0100008c0100008d0100008e0100008f010000900100009101000092010000930100009401000095010000960100009701000098010000990100009a0100009b0100009c0100009d0100009e0100009f010000a0010000a1010000a2010000a3010000a4010000a5010000a6010000a7010000a8010000a9010000aa010000ab010000ac010000ad010000ae010000af010000b0010000b1010000b2010000b3010000b4010000b5010000b6010000b7010000b8010000b9010000ba010000bb010000bc010000bd010000be010000bf010000c0010000c1010000c2010000c3010000c4010000c5010000c6010000c7010000c8010000c9010000ca010000cb010000cc010000cd010000ce010000cf010000d0010000d1010000d2010000d3010000d4010000d5010000d6010000d7010000d8010000d9010000da010000db010000dc010000dd010000de010000df010000e0010000e1010000e2010000e3010000e4010000e5010000e6010000e7010000e8010000e9010000ea010000eb010000ec010000ed010000ee010000ef010000f0010000f1010000f2010000f3010000f4010000f5010000f6010000f7010000f8010000f9010000fa010000fb010000fc010000fd010000fe010000ff010000000200000102000002020000030200000402000005020000060200000702000008020000090200000a0200000b0200000c0200000d0200000e0200000f020000100200001102000012020000130200001402000015020000160200001702000018020000190200001a0200001b0200001c0200001d0200001e0200001f020000200200002102000022020000230200002402000025020000260200002702000028020000290200002a0200002b0200002c0200002d0200002e0200002f020000300200003102000032020000330200003402000035020000360200003702000038020000390200003a0200003b0200003c0200003d0200003e0200003f020000400200004102000042020000430200004402000045020000460200004702000048020000490200004a0200004b0200004c0200004d0200004e0200004f0200005702000058020000590200005a0200005b0200005c0200005d0200005e0200005f020000600200006102000062020000630200006402000065020000730200007402000075020000760200007702000078020000790200007a0200007b0200007c0200008d0200008e0200008f020000900200009102000092020000930200009402000095020000960200009702000098020000990200009a0200009b0200009c0200009d0200009e0200009f020000a0020000a1020000a2020000a8020000a9020000aa020000ab020000ac020000ad020000ae020000af020000b0020000b1020000b2020000b3020000b4020000b5020000b6020000b7020000b8020000b9020000ba020000bb020000bc020000bd020000c0020000c1020000c2020000c3020000c4020000c5020000c6020000c7020000c8020000c9020000ca020000cb020000cc020000cd020000ce020000cf020000d0020000d1020000d2020000d3020000d6020000d7020000d8020000d9020000da020000db020000dc020000dd020000de020000df020000e0020000e1020000e2020000e3020000e4020000e5020000e6020000e7020000e8020000e9020000ea020000eb020000ec020000ed020000ee020000ef020000f0020000f1020000f2020000f3020000f4020000f5020000fa020000fb020000fc020000fd020000fe020000ff020000
+  assetHash:
+    serializedVersion: 2
+    Hash: 4d5ded32cc5e270861b883bb40931c6c
+  longitude: -87.3136068700914
+  latitude: 30.35007820957513
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 14.424401, y: 3.2994695, z: -8.8035965}
+      lookAt: {x: 9.432855, y: 2.70044, z: -0.24017596}
+      up: {x: -0.0303787, y: 0.99817884, z: 0.05211723}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: aerial 1-1/2#1
+    100002: aerial 1-1/2#1 1
+    100004: aerial 2-1/4
+    100006: aerial 2-1/4 1
+    100008: aerial 2-1/4 2
+    100010: Aerial 3
+    100012: Aerial 3 1
+    100014: aileron
+    100016: aileron 1
+    100018: air brake 1/2
+    100020: air brake 1/2 1
+    100022: arresting hook
+    100024: arresting hook 1
+    100026: Canopy#2
+    100028: Cockpit Seats Hud Piston#1
+    100030: Component#1
+    100032: Component#14
+    100034: Component#14 1
+    100036: Component#14 2
+    100038: Component#14 3
+    100040: Component#18
+    100042: Component#23
+    100044: Component#23 1
+    100046: Component#26
+    100048: Component#28
+    100050: Component#31
+    100052: Component#33
+    100054: Component#33 1
+    100056: Component#4
+    100058: Component#67
+    100060: Component#67 1
+    100062: Component#68
+    100064: Component#70
+    100066: Component#70 1
+    100068: Component#71
+    100070: Component#72
+    100072: Component#73
+    100074: Component#74
+    100076: Component#75
+    100078: Component#76
+    100080: Component#77
+    100082: Component#78
+    100084: Component#79
+    100086: Component#81
+    100088: Component#82
+    100090: Component#84
+    100092: Component#87
+    100094: Component#88
+    100096: //RootNode
+    100098: flap
+    100100: flap 1
+    100102: Group 11
+    100104: Group 116
+    100106: Group 118
+    100108: Group 120
+    100110: Group 122
+    100112: Group 124
+    100114: Group 126
+    100116: Group 128
+    100118: Group 13
+    100120: Group 130
+    100122: Group 132
+    100124: Group 134
+    100126: Group 136
+    100128: Group 138
+    100130: Group 140
+    100132: Group 142
+    100134: Group 144
+    100136: Group 146
+    100138: Group 148
+    100140: Group 15
+    100142: Group 150
+    100144: Group 152
+    100146: Group 154
+    100148: Group 156
+    100150: Group 158
+    100152: Group 160
+    100154: Group 162
+    100156: Group 164
+    100158: Group 166
+    100160: Group 168
+    100162: Group 17
+    100164: Group 170
+    100166: Group 172
+    100168: Group 174
+    100170: Group 176
+    100172: Group 178
+    100174: Group 180
+    100176: Group 182
+    100178: Group 184
+    100180: Group 186
+    100182: Group 188
+    100184: Group 19
+    100186: Group 190
+    100188: Group 192
+    100190: Group 194
+    100192: Group 196
+    100194: Group 198
+    100196: Group 2
+    100198: Group 20
+    100200: Group 200
+    100202: Group 202
+    100204: Group 204
+    100206: Group 206
+    100208: Group 208
+    100210: Group 210
+    100212: Group 212
+    100214: Group 214
+    100216: Group 216
+    100218: Group 218
+    100220: Group 22
+    100222: Group 220
+    100224: Group 222
+    100226: Group 224
+    100228: Group 226
+    100230: Group 228
+    100232: Group 230
+    100234: Group 232
+    100236: Group 234
+    100238: Group 236
+    100240: Group 238
+    100242: Group 24
+    100244: Group 240
+    100246: Group 242
+    100248: Group 244
+    100250: Group 246
+    100252: Group 248
+    100254: Group 250
+    100256: Group 252
+    100258: Group 254
+    100260: Group 256
+    100262: Group 258
+    100264: Group 26
+    100266: Group 28
+    100268: Group 3
+    100270: Group 30
+    100272: Group 314
+    100274: Group 316
+    100276: Group 318
+    100278: Group 32
+    100280: Group 320
+    100282: Group 322
+    100284: Group 324
+    100286: Group 326
+    100288: Group 328
+    100290: Group 330
+    100292: Group 332
+    100294: Group 334
+    100296: Group 336
+    100298: Group 338
+    100300: Group 34
+    100302: Group 340
+    100304: Group 342
+    100306: Group 344
+    100308: Group 346
+    100310: Group 348
+    100312: Group 350
+    100314: Group 352
+    100316: Group 354
+    100318: Group 356
+    100320: Group 358
+    100322: Group 360
+    100324: Group 362
+    100326: Group 364
+    100328: Group 366
+    100330: Group 368
+    100332: Group 370
+    100334: Group 372
+    100336: Group 374
+    100338: Group 376
+    100340: Group 378
+    100342: Group 380
+    100344: Group 382
+    100346: Group 384
+    100348: Group 386
+    100350: Group 388
+    100352: Group 390
+    100354: Group 392
+    100356: Group 394
+    100358: Group 396
+    100360: Group 398
+    100362: Group 400
+    100364: Group 402
+    100366: Group 404
+    100368: Group 406
+    100370: Group 408
+    100372: Group 410
+    100374: Group 412
+    100376: Group 414
+    100378: Group 416
+    100380: Group 418
+    100382: Group 420
+    100384: Group 422
+    100386: Group 424
+    100388: Group 426
+    100390: Group 428
+    100392: Group 430
+    100394: Group 432
+    100396: Group 434
+    100398: Group 436
+    100400: Group 438
+    100402: Group 440
+    100404: Group 442
+    100406: Group 444
+    100408: Group 446
+    100410: Group 448
+    100412: Group 450
+    100414: Group 452
+    100416: Group 454
+    100418: Group 456
+    100420: Group 5
+    100422: Group 571
+    100424: Group 573
+    100426: Group 575
+    100428: Group 578
+    100430: Group 580
+    100432: Group 582
+    100434: Group 7
+    100436: Group 9
+    100438: Hub and Crowd
+    100440: Hub and Crowd 1
+    100442: Hub and Crowd 1/8
+    100444: Hub and Crowd 1/8 1
+    100446: Hub and Crowd 1/8 10
+    100448: Hub and Crowd 1/8 11
+    100450: Hub and Crowd 1/8 12
+    100452: Hub and Crowd 1/8 13
+    100454: Hub and Crowd 1/8 14
+    100456: Hub and Crowd 1/8 15
+    100458: Hub and Crowd 1/8 2
+    100460: Hub and Crowd 1/8 3
+    100462: Hub and Crowd 1/8 4
+    100464: Hub and Crowd 1/8 5
+    100466: Hub and Crowd 1/8 6
+    100468: Hub and Crowd 1/8 7
+    100470: Hub and Crowd 1/8 8
+    100472: Hub and Crowd 1/8 9
+    100474: HUD 1/2#1
+    100476: HUD 1/2#1 1
+    100478: HUD display braket
+    100480: HUD display braket 1
+    100482: IER sensor 1/2
+    100484: IER sensor 1/2 1
+    100486: IER sensor 1/2 2
+    100488: IER sensor 1/2 3
+    100490: IMR sensor 1/4
+    100492: IMR sensor 1/4 1
+    100494: IMR sensor 1/4 2
+    100496: IMR sensor 1/4 3
+    100498: IMR sensor 1/4 4
+    100500: IMR sensor 1/4 5
+    100502: IMR sensor 1/4 6
+    100504: IMR sensor 1/4 7
+    100506: 'inner intake '
+    100508: inner intake  1
+    100510: inner nossel 1/4
+    100512: inner nossel 1/4 1
+    100514: inner nossel 1/4 2
+    100516: inner nossel 1/4 3
+    100518: inner nossel 1/4 4
+    100520: inner nossel 1/4 5
+    100522: inner nossel 1/4 6
+    100524: inner nossel 1/4 7
+    100526: IR Sensor 1/2
+    100528: IR Sensor 1/2 1
+    100530: IR Sensor 1/2 2
+    100532: IR Sensor 1/2 3
+    100534: leadingedge#1
+    100536: leadingedge#1 1
+    100538: Nose (RP stowed)#1
+    100540: nossel
+    100542: nossel 1
+    100544: Nossel flap
+    100546: Nossel flap 1
+    100548: Nossel flap 1/2
+    100550: Nossel flap 1/2 1
+    100552: Nossel flap 1/2 10
+    100554: Nossel flap 1/2 11
+    100556: Nossel flap 1/2 12
+    100558: Nossel flap 1/2 13
+    100560: Nossel flap 1/2 14
+    100562: Nossel flap 1/2 15
+    100564: Nossel flap 1/2 16
+    100566: Nossel flap 1/2 17
+    100568: Nossel flap 1/2 18
+    100570: Nossel flap 1/2 19
+    100572: Nossel flap 1/2 2
+    100574: Nossel flap 1/2 20
+    100576: Nossel flap 1/2 21
+    100578: Nossel flap 1/2 22
+    100580: Nossel flap 1/2 23
+    100582: Nossel flap 1/2 24
+    100584: Nossel flap 1/2 25
+    100586: Nossel flap 1/2 26
+    100588: Nossel flap 1/2 27
+    100590: Nossel flap 1/2 28
+    100592: Nossel flap 1/2 29
+    100594: Nossel flap 1/2 3
+    100596: Nossel flap 1/2 30
+    100598: Nossel flap 1/2 31
+    100600: Nossel flap 1/2 32
+    100602: Nossel flap 1/2 33
+    100604: Nossel flap 1/2 34
+    100606: Nossel flap 1/2 35
+    100608: Nossel flap 1/2 36
+    100610: Nossel flap 1/2 37
+    100612: Nossel flap 1/2 38
+    100614: Nossel flap 1/2 39
+    100616: Nossel flap 1/2 4
+    100618: Nossel flap 1/2 40
+    100620: Nossel flap 1/2 41
+    100622: Nossel flap 1/2 42
+    100624: Nossel flap 1/2 43
+    100626: Nossel flap 1/2 44
+    100628: Nossel flap 1/2 45
+    100630: Nossel flap 1/2 46
+    100632: Nossel flap 1/2 47
+    100634: Nossel flap 1/2 5
+    100636: Nossel flap 1/2 6
+    100638: Nossel flap 1/2 7
+    100640: Nossel flap 1/2 8
+    100642: Nossel flap 1/2 9
+    100644: Nossel flap 10
+    100646: Nossel flap 11
+    100648: Nossel flap 12
+    100650: Nossel flap 13
+    100652: Nossel flap 14
+    100654: Nossel flap 15
+    100656: Nossel flap 16
+    100658: Nossel flap 17
+    100660: Nossel flap 18
+    100662: Nossel flap 19
+    100664: Nossel flap 2
+    100666: Nossel flap 20
+    100668: Nossel flap 21
+    100670: Nossel flap 22
+    100672: Nossel flap 23
+    100674: Nossel flap 3
+    100676: Nossel flap 4
+    100678: Nossel flap 5
+    100680: Nossel flap 6
+    100682: Nossel flap 7
+    100684: Nossel flap 8
+    100686: Nossel flap 9
+    100688: OBJ1#1
+    100690: OBJ2
+    100692: OBJ23
+    100694: OBJ23 1
+    100696: OBJ24
+    100698: OBJ24 1
+    100700: OM sensor 1/4
+    100702: OM sensor 1/4 1
+    100704: OM sensor 1/4 2
+    100706: OM sensor 1/4 3
+    100708: OM sensor 1/4 4
+    100710: OM sensor 1/4 5
+    100712: OM sensor 1/4 6
+    100714: OM sensor 1/4 7
+    100716: Pilot Probe 1/2#1
+    100718: Pilot Probe 1/2#1 1
+    100720: polits probe tube 1/4#1
+    100722: polits probe tube 1/4#1 1
+    100724: polits probe tube 1/4#1 2
+    100726: polits probe tube 1/4#1 3
+    100728: Rear Elevator
+    100730: Rear Elevator 1
+    100732: Rudder
+    100734: Rudder 1
+    100736: Rudder 2
+    100738: Rudder 3
+    100740: temp#1
+    100742: temp#1 1
+    100744: temp5
+    100746: temp5 1
+    100748: turbine blades
+    100750: turbine blades 1
+    100752: Wt/Lr 1/2#1
+    100754: Wt/Lr 1/2#1 1
+    100756: Wt/Lr 1/2#1 2
+    100758: Wt/Lr 1/2#1 3
+    400000: aerial 1-1/2#1
+    400002: aerial 1-1/2#1 1
+    400004: aerial 2-1/4
+    400006: aerial 2-1/4 1
+    400008: aerial 2-1/4 2
+    400010: Aerial 3
+    400012: Aerial 3 1
+    400014: aileron
+    400016: aileron 1
+    400018: air brake 1/2
+    400020: air brake 1/2 1
+    400022: arresting hook
+    400024: arresting hook 1
+    400026: Canopy#2
+    400028: Cockpit Seats Hud Piston#1
+    400030: Component#1
+    400032: Component#14
+    400034: Component#14 1
+    400036: Component#14 2
+    400038: Component#14 3
+    400040: Component#18
+    400042: Component#23
+    400044: Component#23 1
+    400046: Component#26
+    400048: Component#28
+    400050: Component#31
+    400052: Component#33
+    400054: Component#33 1
+    400056: Component#4
+    400058: Component#67
+    400060: Component#67 1
+    400062: Component#68
+    400064: Component#70
+    400066: Component#70 1
+    400068: Component#71
+    400070: Component#72
+    400072: Component#73
+    400074: Component#74
+    400076: Component#75
+    400078: Component#76
+    400080: Component#77
+    400082: Component#78
+    400084: Component#79
+    400086: Component#81
+    400088: Component#82
+    400090: Component#84
+    400092: Component#87
+    400094: Component#88
+    400096: //RootNode
+    400098: flap
+    400100: flap 1
+    400102: Group 11
+    400104: Group 116
+    400106: Group 118
+    400108: Group 120
+    400110: Group 122
+    400112: Group 124
+    400114: Group 126
+    400116: Group 128
+    400118: Group 13
+    400120: Group 130
+    400122: Group 132
+    400124: Group 134
+    400126: Group 136
+    400128: Group 138
+    400130: Group 140
+    400132: Group 142
+    400134: Group 144
+    400136: Group 146
+    400138: Group 148
+    400140: Group 15
+    400142: Group 150
+    400144: Group 152
+    400146: Group 154
+    400148: Group 156
+    400150: Group 158
+    400152: Group 160
+    400154: Group 162
+    400156: Group 164
+    400158: Group 166
+    400160: Group 168
+    400162: Group 17
+    400164: Group 170
+    400166: Group 172
+    400168: Group 174
+    400170: Group 176
+    400172: Group 178
+    400174: Group 180
+    400176: Group 182
+    400178: Group 184
+    400180: Group 186
+    400182: Group 188
+    400184: Group 19
+    400186: Group 190
+    400188: Group 192
+    400190: Group 194
+    400192: Group 196
+    400194: Group 198
+    400196: Group 2
+    400198: Group 20
+    400200: Group 200
+    400202: Group 202
+    400204: Group 204
+    400206: Group 206
+    400208: Group 208
+    400210: Group 210
+    400212: Group 212
+    400214: Group 214
+    400216: Group 216
+    400218: Group 218
+    400220: Group 22
+    400222: Group 220
+    400224: Group 222
+    400226: Group 224
+    400228: Group 226
+    400230: Group 228
+    400232: Group 230
+    400234: Group 232
+    400236: Group 234
+    400238: Group 236
+    400240: Group 238
+    400242: Group 24
+    400244: Group 240
+    400246: Group 242
+    400248: Group 244
+    400250: Group 246
+    400252: Group 248
+    400254: Group 250
+    400256: Group 252
+    400258: Group 254
+    400260: Group 256
+    400262: Group 258
+    400264: Group 26
+    400266: Group 28
+    400268: Group 3
+    400270: Group 30
+    400272: Group 314
+    400274: Group 316
+    400276: Group 318
+    400278: Group 32
+    400280: Group 320
+    400282: Group 322
+    400284: Group 324
+    400286: Group 326
+    400288: Group 328
+    400290: Group 330
+    400292: Group 332
+    400294: Group 334
+    400296: Group 336
+    400298: Group 338
+    400300: Group 34
+    400302: Group 340
+    400304: Group 342
+    400306: Group 344
+    400308: Group 346
+    400310: Group 348
+    400312: Group 350
+    400314: Group 352
+    400316: Group 354
+    400318: Group 356
+    400320: Group 358
+    400322: Group 360
+    400324: Group 362
+    400326: Group 364
+    400328: Group 366
+    400330: Group 368
+    400332: Group 370
+    400334: Group 372
+    400336: Group 374
+    400338: Group 376
+    400340: Group 378
+    400342: Group 380
+    400344: Group 382
+    400346: Group 384
+    400348: Group 386
+    400350: Group 388
+    400352: Group 390
+    400354: Group 392
+    400356: Group 394
+    400358: Group 396
+    400360: Group 398
+    400362: Group 400
+    400364: Group 402
+    400366: Group 404
+    400368: Group 406
+    400370: Group 408
+    400372: Group 410
+    400374: Group 412
+    400376: Group 414
+    400378: Group 416
+    400380: Group 418
+    400382: Group 420
+    400384: Group 422
+    400386: Group 424
+    400388: Group 426
+    400390: Group 428
+    400392: Group 430
+    400394: Group 432
+    400396: Group 434
+    400398: Group 436
+    400400: Group 438
+    400402: Group 440
+    400404: Group 442
+    400406: Group 444
+    400408: Group 446
+    400410: Group 448
+    400412: Group 450
+    400414: Group 452
+    400416: Group 454
+    400418: Group 456
+    400420: Group 5
+    400422: Group 571
+    400424: Group 573
+    400426: Group 575
+    400428: Group 578
+    400430: Group 580
+    400432: Group 582
+    400434: Group 7
+    400436: Group 9
+    400438: Hub and Crowd
+    400440: Hub and Crowd 1
+    400442: Hub and Crowd 1/8
+    400444: Hub and Crowd 1/8 1
+    400446: Hub and Crowd 1/8 10
+    400448: Hub and Crowd 1/8 11
+    400450: Hub and Crowd 1/8 12
+    400452: Hub and Crowd 1/8 13
+    400454: Hub and Crowd 1/8 14
+    400456: Hub and Crowd 1/8 15
+    400458: Hub and Crowd 1/8 2
+    400460: Hub and Crowd 1/8 3
+    400462: Hub and Crowd 1/8 4
+    400464: Hub and Crowd 1/8 5
+    400466: Hub and Crowd 1/8 6
+    400468: Hub and Crowd 1/8 7
+    400470: Hub and Crowd 1/8 8
+    400472: Hub and Crowd 1/8 9
+    400474: HUD 1/2#1
+    400476: HUD 1/2#1 1
+    400478: HUD display braket
+    400480: HUD display braket 1
+    400482: IER sensor 1/2
+    400484: IER sensor 1/2 1
+    400486: IER sensor 1/2 2
+    400488: IER sensor 1/2 3
+    400490: IMR sensor 1/4
+    400492: IMR sensor 1/4 1
+    400494: IMR sensor 1/4 2
+    400496: IMR sensor 1/4 3
+    400498: IMR sensor 1/4 4
+    400500: IMR sensor 1/4 5
+    400502: IMR sensor 1/4 6
+    400504: IMR sensor 1/4 7
+    400506: 'inner intake '
+    400508: inner intake  1
+    400510: inner nossel 1/4
+    400512: inner nossel 1/4 1
+    400514: inner nossel 1/4 2
+    400516: inner nossel 1/4 3
+    400518: inner nossel 1/4 4
+    400520: inner nossel 1/4 5
+    400522: inner nossel 1/4 6
+    400524: inner nossel 1/4 7
+    400526: IR Sensor 1/2
+    400528: IR Sensor 1/2 1
+    400530: IR Sensor 1/2 2
+    400532: IR Sensor 1/2 3
+    400534: leadingedge#1
+    400536: leadingedge#1 1
+    400538: Nose (RP stowed)#1
+    400540: nossel
+    400542: nossel 1
+    400544: Nossel flap
+    400546: Nossel flap 1
+    400548: Nossel flap 1/2
+    400550: Nossel flap 1/2 1
+    400552: Nossel flap 1/2 10
+    400554: Nossel flap 1/2 11
+    400556: Nossel flap 1/2 12
+    400558: Nossel flap 1/2 13
+    400560: Nossel flap 1/2 14
+    400562: Nossel flap 1/2 15
+    400564: Nossel flap 1/2 16
+    400566: Nossel flap 1/2 17
+    400568: Nossel flap 1/2 18
+    400570: Nossel flap 1/2 19
+    400572: Nossel flap 1/2 2
+    400574: Nossel flap 1/2 20
+    400576: Nossel flap 1/2 21
+    400578: Nossel flap 1/2 22
+    400580: Nossel flap 1/2 23
+    400582: Nossel flap 1/2 24
+    400584: Nossel flap 1/2 25
+    400586: Nossel flap 1/2 26
+    400588: Nossel flap 1/2 27
+    400590: Nossel flap 1/2 28
+    400592: Nossel flap 1/2 29
+    400594: Nossel flap 1/2 3
+    400596: Nossel flap 1/2 30
+    400598: Nossel flap 1/2 31
+    400600: Nossel flap 1/2 32
+    400602: Nossel flap 1/2 33
+    400604: Nossel flap 1/2 34
+    400606: Nossel flap 1/2 35
+    400608: Nossel flap 1/2 36
+    400610: Nossel flap 1/2 37
+    400612: Nossel flap 1/2 38
+    400614: Nossel flap 1/2 39
+    400616: Nossel flap 1/2 4
+    400618: Nossel flap 1/2 40
+    400620: Nossel flap 1/2 41
+    400622: Nossel flap 1/2 42
+    400624: Nossel flap 1/2 43
+    400626: Nossel flap 1/2 44
+    400628: Nossel flap 1/2 45
+    400630: Nossel flap 1/2 46
+    400632: Nossel flap 1/2 47
+    400634: Nossel flap 1/2 5
+    400636: Nossel flap 1/2 6
+    400638: Nossel flap 1/2 7
+    400640: Nossel flap 1/2 8
+    400642: Nossel flap 1/2 9
+    400644: Nossel flap 10
+    400646: Nossel flap 11
+    400648: Nossel flap 12
+    400650: Nossel flap 13
+    400652: Nossel flap 14
+    400654: Nossel flap 15
+    400656: Nossel flap 16
+    400658: Nossel flap 17
+    400660: Nossel flap 18
+    400662: Nossel flap 19
+    400664: Nossel flap 2
+    400666: Nossel flap 20
+    400668: Nossel flap 21
+    400670: Nossel flap 22
+    400672: Nossel flap 23
+    400674: Nossel flap 3
+    400676: Nossel flap 4
+    400678: Nossel flap 5
+    400680: Nossel flap 6
+    400682: Nossel flap 7
+    400684: Nossel flap 8
+    400686: Nossel flap 9
+    400688: OBJ1#1
+    400690: OBJ2
+    400692: OBJ23
+    400694: OBJ23 1
+    400696: OBJ24
+    400698: OBJ24 1
+    400700: OM sensor 1/4
+    400702: OM sensor 1/4 1
+    400704: OM sensor 1/4 2
+    400706: OM sensor 1/4 3
+    400708: OM sensor 1/4 4
+    400710: OM sensor 1/4 5
+    400712: OM sensor 1/4 6
+    400714: OM sensor 1/4 7
+    400716: Pilot Probe 1/2#1
+    400718: Pilot Probe 1/2#1 1
+    400720: polits probe tube 1/4#1
+    400722: polits probe tube 1/4#1 1
+    400724: polits probe tube 1/4#1 2
+    400726: polits probe tube 1/4#1 3
+    400728: Rear Elevator
+    400730: Rear Elevator 1
+    400732: Rudder
+    400734: Rudder 1
+    400736: Rudder 2
+    400738: Rudder 3
+    400740: temp#1
+    400742: temp#1 1
+    400744: temp5
+    400746: temp5 1
+    400748: turbine blades
+    400750: turbine blades 1
+    400752: Wt/Lr 1/2#1
+    400754: Wt/Lr 1/2#1 1
+    400756: Wt/Lr 1/2#1 2
+    400758: Wt/Lr 1/2#1 3
+    2300000: aerial 1-1/2#1
+    2300002: aerial 1-1/2#1 1
+    2300004: aerial 2-1/4
+    2300006: aerial 2-1/4 1
+    2300008: aerial 2-1/4 2
+    2300010: Aerial 3
+    2300012: Aerial 3 1
+    2300014: aileron
+    2300016: aileron 1
+    2300018: air brake 1/2
+    2300020: air brake 1/2 1
+    2300022: arresting hook
+    2300024: arresting hook 1
+    2300026: Component#1
+    2300028: Component#14
+    2300030: Component#14 1
+    2300032: Component#14 2
+    2300034: Component#14 3
+    2300036: Component#18
+    2300038: Component#23
+    2300040: Component#23 1
+    2300042: Component#26
+    2300044: Component#28
+    2300046: Component#31
+    2300048: Component#33
+    2300050: Component#33 1
+    2300052: Component#4
+    2300054: Component#67
+    2300056: Component#67 1
+    2300058: Component#68
+    2300060: Component#71
+    2300062: Component#72
+    2300064: Component#74
+    2300066: Component#75
+    2300068: Component#76
+    2300070: Component#77
+    2300072: Component#79
+    2300074: Component#81
+    2300076: Component#82
+    2300078: Component#87
+    2300080: Component#88
+    2300082: //RootNode
+    2300084: flap
+    2300086: flap 1
+    2300088: Group 11
+    2300090: Group 116
+    2300092: Group 118
+    2300094: Group 120
+    2300096: Group 122
+    2300098: Group 124
+    2300100: Group 126
+    2300102: Group 128
+    2300104: Group 13
+    2300106: Group 130
+    2300108: Group 132
+    2300110: Group 134
+    2300112: Group 136
+    2300114: Group 138
+    2300116: Group 140
+    2300118: Group 142
+    2300120: Group 144
+    2300122: Group 146
+    2300124: Group 148
+    2300126: Group 15
+    2300128: Group 150
+    2300130: Group 152
+    2300132: Group 154
+    2300134: Group 156
+    2300136: Group 158
+    2300138: Group 160
+    2300140: Group 162
+    2300142: Group 164
+    2300144: Group 166
+    2300146: Group 168
+    2300148: Group 17
+    2300150: Group 170
+    2300152: Group 172
+    2300154: Group 174
+    2300156: Group 176
+    2300158: Group 178
+    2300160: Group 180
+    2300162: Group 182
+    2300164: Group 184
+    2300166: Group 186
+    2300168: Group 188
+    2300170: Group 190
+    2300172: Group 192
+    2300174: Group 194
+    2300176: Group 196
+    2300178: Group 198
+    2300180: Group 20
+    2300182: Group 200
+    2300184: Group 202
+    2300186: Group 204
+    2300188: Group 206
+    2300190: Group 208
+    2300192: Group 210
+    2300194: Group 212
+    2300196: Group 214
+    2300198: Group 216
+    2300200: Group 218
+    2300202: Group 22
+    2300204: Group 220
+    2300206: Group 222
+    2300208: Group 224
+    2300210: Group 226
+    2300212: Group 228
+    2300214: Group 230
+    2300216: Group 232
+    2300218: Group 234
+    2300220: Group 236
+    2300222: Group 238
+    2300224: Group 24
+    2300226: Group 240
+    2300228: Group 242
+    2300230: Group 244
+    2300232: Group 246
+    2300234: Group 248
+    2300236: Group 250
+    2300238: Group 252
+    2300240: Group 254
+    2300242: Group 256
+    2300244: Group 258
+    2300246: Group 26
+    2300248: Group 28
+    2300250: Group 3
+    2300252: Group 30
+    2300254: Group 314
+    2300256: Group 316
+    2300258: Group 318
+    2300260: Group 32
+    2300262: Group 320
+    2300264: Group 322
+    2300266: Group 324
+    2300268: Group 326
+    2300270: Group 328
+    2300272: Group 330
+    2300274: Group 332
+    2300276: Group 334
+    2300278: Group 336
+    2300280: Group 338
+    2300282: Group 34
+    2300284: Group 340
+    2300286: Group 342
+    2300288: Group 344
+    2300290: Group 346
+    2300292: Group 348
+    2300294: Group 350
+    2300296: Group 352
+    2300298: Group 354
+    2300300: Group 356
+    2300302: Group 358
+    2300304: Group 360
+    2300306: Group 362
+    2300308: Group 364
+    2300310: Group 366
+    2300312: Group 368
+    2300314: Group 370
+    2300316: Group 372
+    2300318: Group 374
+    2300320: Group 376
+    2300322: Group 378
+    2300324: Group 380
+    2300326: Group 382
+    2300328: Group 384
+    2300330: Group 386
+    2300332: Group 388
+    2300334: Group 390
+    2300336: Group 392
+    2300338: Group 394
+    2300340: Group 396
+    2300342: Group 398
+    2300344: Group 400
+    2300346: Group 402
+    2300348: Group 404
+    2300350: Group 406
+    2300352: Group 408
+    2300354: Group 410
+    2300356: Group 412
+    2300358: Group 414
+    2300360: Group 416
+    2300362: Group 418
+    2300364: Group 420
+    2300366: Group 422
+    2300368: Group 424
+    2300370: Group 426
+    2300372: Group 428
+    2300374: Group 430
+    2300376: Group 432
+    2300378: Group 434
+    2300380: Group 436
+    2300382: Group 438
+    2300384: Group 440
+    2300386: Group 442
+    2300388: Group 444
+    2300390: Group 446
+    2300392: Group 448
+    2300394: Group 450
+    2300396: Group 452
+    2300398: Group 454
+    2300400: Group 456
+    2300402: Group 5
+    2300404: Group 571
+    2300406: Group 573
+    2300408: Group 575
+    2300410: Group 578
+    2300412: Group 580
+    2300414: Group 582
+    2300416: Group 7
+    2300418: Group 9
+    2300420: Hub and Crowd 1/8
+    2300422: Hub and Crowd 1/8 1
+    2300424: Hub and Crowd 1/8 10
+    2300426: Hub and Crowd 1/8 11
+    2300428: Hub and Crowd 1/8 12
+    2300430: Hub and Crowd 1/8 13
+    2300432: Hub and Crowd 1/8 14
+    2300434: Hub and Crowd 1/8 15
+    2300436: Hub and Crowd 1/8 2
+    2300438: Hub and Crowd 1/8 3
+    2300440: Hub and Crowd 1/8 4
+    2300442: Hub and Crowd 1/8 5
+    2300444: Hub and Crowd 1/8 6
+    2300446: Hub and Crowd 1/8 7
+    2300448: Hub and Crowd 1/8 8
+    2300450: Hub and Crowd 1/8 9
+    2300452: HUD 1/2#1
+    2300454: HUD 1/2#1 1
+    2300456: HUD display braket
+    2300458: HUD display braket 1
+    2300460: IER sensor 1/2
+    2300462: IER sensor 1/2 1
+    2300464: IER sensor 1/2 2
+    2300466: IER sensor 1/2 3
+    2300468: IMR sensor 1/4
+    2300470: IMR sensor 1/4 1
+    2300472: IMR sensor 1/4 2
+    2300474: IMR sensor 1/4 3
+    2300476: IMR sensor 1/4 4
+    2300478: IMR sensor 1/4 5
+    2300480: IMR sensor 1/4 6
+    2300482: IMR sensor 1/4 7
+    2300484: 'inner intake '
+    2300486: inner intake  1
+    2300488: inner nossel 1/4
+    2300490: inner nossel 1/4 1
+    2300492: inner nossel 1/4 2
+    2300494: inner nossel 1/4 3
+    2300496: inner nossel 1/4 4
+    2300498: inner nossel 1/4 5
+    2300500: inner nossel 1/4 6
+    2300502: inner nossel 1/4 7
+    2300504: IR Sensor 1/2
+    2300506: IR Sensor 1/2 1
+    2300508: IR Sensor 1/2 2
+    2300510: IR Sensor 1/2 3
+    2300512: leadingedge#1
+    2300514: leadingedge#1 1
+    2300516: Nose (RP stowed)#1
+    2300518: Nossel flap 1/2
+    2300520: Nossel flap 1/2 1
+    2300522: Nossel flap 1/2 10
+    2300524: Nossel flap 1/2 11
+    2300526: Nossel flap 1/2 12
+    2300528: Nossel flap 1/2 13
+    2300530: Nossel flap 1/2 14
+    2300532: Nossel flap 1/2 15
+    2300534: Nossel flap 1/2 16
+    2300536: Nossel flap 1/2 17
+    2300538: Nossel flap 1/2 18
+    2300540: Nossel flap 1/2 19
+    2300542: Nossel flap 1/2 2
+    2300544: Nossel flap 1/2 20
+    2300546: Nossel flap 1/2 21
+    2300548: Nossel flap 1/2 22
+    2300550: Nossel flap 1/2 23
+    2300552: Nossel flap 1/2 24
+    2300554: Nossel flap 1/2 25
+    2300556: Nossel flap 1/2 26
+    2300558: Nossel flap 1/2 27
+    2300560: Nossel flap 1/2 28
+    2300562: Nossel flap 1/2 29
+    2300564: Nossel flap 1/2 3
+    2300566: Nossel flap 1/2 30
+    2300568: Nossel flap 1/2 31
+    2300570: Nossel flap 1/2 32
+    2300572: Nossel flap 1/2 33
+    2300574: Nossel flap 1/2 34
+    2300576: Nossel flap 1/2 35
+    2300578: Nossel flap 1/2 36
+    2300580: Nossel flap 1/2 37
+    2300582: Nossel flap 1/2 38
+    2300584: Nossel flap 1/2 39
+    2300586: Nossel flap 1/2 4
+    2300588: Nossel flap 1/2 40
+    2300590: Nossel flap 1/2 41
+    2300592: Nossel flap 1/2 42
+    2300594: Nossel flap 1/2 43
+    2300596: Nossel flap 1/2 44
+    2300598: Nossel flap 1/2 45
+    2300600: Nossel flap 1/2 46
+    2300602: Nossel flap 1/2 47
+    2300604: Nossel flap 1/2 5
+    2300606: Nossel flap 1/2 6
+    2300608: Nossel flap 1/2 7
+    2300610: Nossel flap 1/2 8
+    2300612: Nossel flap 1/2 9
+    2300614: OBJ1#1
+    2300616: OBJ2
+    2300618: OBJ23
+    2300620: OBJ23 1
+    2300622: OBJ24
+    2300624: OBJ24 1
+    2300626: OM sensor 1/4
+    2300628: OM sensor 1/4 1
+    2300630: OM sensor 1/4 2
+    2300632: OM sensor 1/4 3
+    2300634: OM sensor 1/4 4
+    2300636: OM sensor 1/4 5
+    2300638: OM sensor 1/4 6
+    2300640: OM sensor 1/4 7
+    2300642: Pilot Probe 1/2#1
+    2300644: Pilot Probe 1/2#1 1
+    2300646: polits probe tube 1/4#1
+    2300648: polits probe tube 1/4#1 1
+    2300650: polits probe tube 1/4#1 2
+    2300652: polits probe tube 1/4#1 3
+    2300654: Rudder
+    2300656: Rudder 1
+    2300658: Rudder 2
+    2300660: Rudder 3
+    2300662: temp#1
+    2300664: temp#1 1
+    2300666: temp5
+    2300668: temp5 1
+    2300670: Wt/Lr 1/2#1
+    2300672: Wt/Lr 1/2#1 1
+    2300674: Wt/Lr 1/2#1 2
+    2300676: Wt/Lr 1/2#1 3
+    3300000: aerial 1-1/2#1
+    3300002: aerial 1-1/2#1 1
+    3300004: aerial 2-1/4
+    3300006: aerial 2-1/4 1
+    3300008: aerial 2-1/4 2
+    3300010: Aerial 3
+    3300012: Aerial 3 1
+    3300014: aileron
+    3300016: aileron 1
+    3300018: air brake 1/2
+    3300020: air brake 1/2 1
+    3300022: arresting hook
+    3300024: arresting hook 1
+    3300026: Component#1
+    3300028: Component#14
+    3300030: Component#14 1
+    3300032: Component#14 2
+    3300034: Component#14 3
+    3300036: Component#18
+    3300038: Component#23
+    3300040: Component#23 1
+    3300042: Component#26
+    3300044: Component#28
+    3300046: Component#31
+    3300048: Component#33
+    3300050: Component#33 1
+    3300052: Component#4
+    3300054: Component#67
+    3300056: Component#67 1
+    3300058: Component#68
+    3300060: Component#71
+    3300062: Component#72
+    3300064: Component#74
+    3300066: Component#75
+    3300068: Component#76
+    3300070: Component#77
+    3300072: Component#79
+    3300074: Component#81
+    3300076: Component#82
+    3300078: Component#87
+    3300080: Component#88
+    3300082: //RootNode
+    3300084: flap
+    3300086: flap 1
+    3300088: Group 11
+    3300090: Group 116
+    3300092: Group 118
+    3300094: Group 120
+    3300096: Group 122
+    3300098: Group 124
+    3300100: Group 126
+    3300102: Group 128
+    3300104: Group 13
+    3300106: Group 130
+    3300108: Group 132
+    3300110: Group 134
+    3300112: Group 136
+    3300114: Group 138
+    3300116: Group 140
+    3300118: Group 142
+    3300120: Group 144
+    3300122: Group 146
+    3300124: Group 148
+    3300126: Group 15
+    3300128: Group 150
+    3300130: Group 152
+    3300132: Group 154
+    3300134: Group 156
+    3300136: Group 158
+    3300138: Group 160
+    3300140: Group 162
+    3300142: Group 164
+    3300144: Group 166
+    3300146: Group 168
+    3300148: Group 17
+    3300150: Group 170
+    3300152: Group 172
+    3300154: Group 174
+    3300156: Group 176
+    3300158: Group 178
+    3300160: Group 180
+    3300162: Group 182
+    3300164: Group 184
+    3300166: Group 186
+    3300168: Group 188
+    3300170: Group 190
+    3300172: Group 192
+    3300174: Group 194
+    3300176: Group 196
+    3300178: Group 198
+    3300180: Group 20
+    3300182: Group 200
+    3300184: Group 202
+    3300186: Group 204
+    3300188: Group 206
+    3300190: Group 208
+    3300192: Group 210
+    3300194: Group 212
+    3300196: Group 214
+    3300198: Group 216
+    3300200: Group 218
+    3300202: Group 22
+    3300204: Group 220
+    3300206: Group 222
+    3300208: Group 224
+    3300210: Group 226
+    3300212: Group 228
+    3300214: Group 230
+    3300216: Group 232
+    3300218: Group 234
+    3300220: Group 236
+    3300222: Group 238
+    3300224: Group 24
+    3300226: Group 240
+    3300228: Group 242
+    3300230: Group 244
+    3300232: Group 246
+    3300234: Group 248
+    3300236: Group 250
+    3300238: Group 252
+    3300240: Group 254
+    3300242: Group 256
+    3300244: Group 258
+    3300246: Group 26
+    3300248: Group 28
+    3300250: Group 3
+    3300252: Group 30
+    3300254: Group 314
+    3300256: Group 316
+    3300258: Group 318
+    3300260: Group 32
+    3300262: Group 320
+    3300264: Group 322
+    3300266: Group 324
+    3300268: Group 326
+    3300270: Group 328
+    3300272: Group 330
+    3300274: Group 332
+    3300276: Group 334
+    3300278: Group 336
+    3300280: Group 338
+    3300282: Group 34
+    3300284: Group 340
+    3300286: Group 342
+    3300288: Group 344
+    3300290: Group 346
+    3300292: Group 348
+    3300294: Group 350
+    3300296: Group 352
+    3300298: Group 354
+    3300300: Group 356
+    3300302: Group 358
+    3300304: Group 360
+    3300306: Group 362
+    3300308: Group 364
+    3300310: Group 366
+    3300312: Group 368
+    3300314: Group 370
+    3300316: Group 372
+    3300318: Group 374
+    3300320: Group 376
+    3300322: Group 378
+    3300324: Group 380
+    3300326: Group 382
+    3300328: Group 384
+    3300330: Group 386
+    3300332: Group 388
+    3300334: Group 390
+    3300336: Group 392
+    3300338: Group 394
+    3300340: Group 396
+    3300342: Group 398
+    3300344: Group 400
+    3300346: Group 402
+    3300348: Group 404
+    3300350: Group 406
+    3300352: Group 408
+    3300354: Group 410
+    3300356: Group 412
+    3300358: Group 414
+    3300360: Group 416
+    3300362: Group 418
+    3300364: Group 420
+    3300366: Group 422
+    3300368: Group 424
+    3300370: Group 426
+    3300372: Group 428
+    3300374: Group 430
+    3300376: Group 432
+    3300378: Group 434
+    3300380: Group 436
+    3300382: Group 438
+    3300384: Group 440
+    3300386: Group 442
+    3300388: Group 444
+    3300390: Group 446
+    3300392: Group 448
+    3300394: Group 450
+    3300396: Group 452
+    3300398: Group 454
+    3300400: Group 456
+    3300402: Group 5
+    3300404: Group 571
+    3300406: Group 573
+    3300408: Group 575
+    3300410: Group 578
+    3300412: Group 580
+    3300414: Group 582
+    3300416: Group 7
+    3300418: Group 9
+    3300420: Hub and Crowd 1/8
+    3300422: Hub and Crowd 1/8 1
+    3300424: Hub and Crowd 1/8 10
+    3300426: Hub and Crowd 1/8 11
+    3300428: Hub and Crowd 1/8 12
+    3300430: Hub and Crowd 1/8 13
+    3300432: Hub and Crowd 1/8 14
+    3300434: Hub and Crowd 1/8 15
+    3300436: Hub and Crowd 1/8 2
+    3300438: Hub and Crowd 1/8 3
+    3300440: Hub and Crowd 1/8 4
+    3300442: Hub and Crowd 1/8 5
+    3300444: Hub and Crowd 1/8 6
+    3300446: Hub and Crowd 1/8 7
+    3300448: Hub and Crowd 1/8 8
+    3300450: Hub and Crowd 1/8 9
+    3300452: HUD 1/2#1
+    3300454: HUD 1/2#1 1
+    3300456: HUD display braket
+    3300458: HUD display braket 1
+    3300460: IER sensor 1/2
+    3300462: IER sensor 1/2 1
+    3300464: IER sensor 1/2 2
+    3300466: IER sensor 1/2 3
+    3300468: IMR sensor 1/4
+    3300470: IMR sensor 1/4 1
+    3300472: IMR sensor 1/4 2
+    3300474: IMR sensor 1/4 3
+    3300476: IMR sensor 1/4 4
+    3300478: IMR sensor 1/4 5
+    3300480: IMR sensor 1/4 6
+    3300482: IMR sensor 1/4 7
+    3300484: 'inner intake '
+    3300486: inner intake  1
+    3300488: inner nossel 1/4
+    3300490: inner nossel 1/4 1
+    3300492: inner nossel 1/4 2
+    3300494: inner nossel 1/4 3
+    3300496: inner nossel 1/4 4
+    3300498: inner nossel 1/4 5
+    3300500: inner nossel 1/4 6
+    3300502: inner nossel 1/4 7
+    3300504: IR Sensor 1/2
+    3300506: IR Sensor 1/2 1
+    3300508: IR Sensor 1/2 2
+    3300510: IR Sensor 1/2 3
+    3300512: leadingedge#1
+    3300514: leadingedge#1 1
+    3300516: Nose (RP stowed)#1
+    3300518: Nossel flap 1/2
+    3300520: Nossel flap 1/2 1
+    3300522: Nossel flap 1/2 10
+    3300524: Nossel flap 1/2 11
+    3300526: Nossel flap 1/2 12
+    3300528: Nossel flap 1/2 13
+    3300530: Nossel flap 1/2 14
+    3300532: Nossel flap 1/2 15
+    3300534: Nossel flap 1/2 16
+    3300536: Nossel flap 1/2 17
+    3300538: Nossel flap 1/2 18
+    3300540: Nossel flap 1/2 19
+    3300542: Nossel flap 1/2 2
+    3300544: Nossel flap 1/2 20
+    3300546: Nossel flap 1/2 21
+    3300548: Nossel flap 1/2 22
+    3300550: Nossel flap 1/2 23
+    3300552: Nossel flap 1/2 24
+    3300554: Nossel flap 1/2 25
+    3300556: Nossel flap 1/2 26
+    3300558: Nossel flap 1/2 27
+    3300560: Nossel flap 1/2 28
+    3300562: Nossel flap 1/2 29
+    3300564: Nossel flap 1/2 3
+    3300566: Nossel flap 1/2 30
+    3300568: Nossel flap 1/2 31
+    3300570: Nossel flap 1/2 32
+    3300572: Nossel flap 1/2 33
+    3300574: Nossel flap 1/2 34
+    3300576: Nossel flap 1/2 35
+    3300578: Nossel flap 1/2 36
+    3300580: Nossel flap 1/2 37
+    3300582: Nossel flap 1/2 38
+    3300584: Nossel flap 1/2 39
+    3300586: Nossel flap 1/2 4
+    3300588: Nossel flap 1/2 40
+    3300590: Nossel flap 1/2 41
+    3300592: Nossel flap 1/2 42
+    3300594: Nossel flap 1/2 43
+    3300596: Nossel flap 1/2 44
+    3300598: Nossel flap 1/2 45
+    3300600: Nossel flap 1/2 46
+    3300602: Nossel flap 1/2 47
+    3300604: Nossel flap 1/2 5
+    3300606: Nossel flap 1/2 6
+    3300608: Nossel flap 1/2 7
+    3300610: Nossel flap 1/2 8
+    3300612: Nossel flap 1/2 9
+    3300614: OBJ1#1
+    3300616: OBJ2
+    3300618: OBJ23
+    3300620: OBJ23 1
+    3300622: OBJ24
+    3300624: OBJ24 1
+    3300626: OM sensor 1/4
+    3300628: OM sensor 1/4 1
+    3300630: OM sensor 1/4 2
+    3300632: OM sensor 1/4 3
+    3300634: OM sensor 1/4 4
+    3300636: OM sensor 1/4 5
+    3300638: OM sensor 1/4 6
+    3300640: OM sensor 1/4 7
+    3300642: Pilot Probe 1/2#1
+    3300644: Pilot Probe 1/2#1 1
+    3300646: polits probe tube 1/4#1
+    3300648: polits probe tube 1/4#1 1
+    3300650: polits probe tube 1/4#1 2
+    3300652: polits probe tube 1/4#1 3
+    3300654: Rudder
+    3300656: Rudder 1
+    3300658: Rudder 2
+    3300660: Rudder 3
+    3300662: temp#1
+    3300664: temp#1 1
+    3300666: temp5
+    3300668: temp5 1
+    3300670: Wt/Lr 1/2#1
+    3300672: Wt/Lr 1/2#1 1
+    3300674: Wt/Lr 1/2#1 2
+    3300676: Wt/Lr 1/2#1 3
+    4300000: Mesh Group#8
+    4300002: Mesh Group 3
+    4300004: Mesh Group 5
+    4300006: Mesh Group 7
+    4300008: Mesh Group 9
+    4300010: Mesh Group 11
+    4300012: Mesh Group 13
+    4300014: Mesh Group 15
+    4300016: Mesh Group 17
+    4300018: Mesh air brake 1/2
+    4300020: Mesh Nossel flap 1/2
+    4300022: Mesh inner nossel 1/4
+    4300024: Mesh Component#81
+    4300026: Mesh Component#14
+    4300028: Mesh aerial 2-1/4
+    4300030: 'Mesh inner intake '
+    4300032: Mesh Group 116
+    4300034: Mesh Group 118
+    4300036: Mesh Group 120
+    4300038: Mesh Group 122
+    4300040: Mesh Group 124
+    4300042: Mesh Group 126
+    4300044: Mesh Group 128
+    4300046: Mesh Group 130
+    4300048: Mesh Group 132
+    4300050: Mesh Group 134
+    4300052: Mesh Group 136
+    4300054: Mesh Group 138
+    4300056: Mesh Group 140
+    4300058: Mesh Group 142
+    4300060: Mesh Group 144
+    4300062: Mesh Group 146
+    4300064: Mesh Group 148
+    4300066: Mesh Group 150
+    4300068: Mesh Group 152
+    4300070: Mesh Group 154
+    4300072: Mesh Group 156
+    4300074: Mesh Group 158
+    4300076: Mesh Group 160
+    4300078: Mesh Group 162
+    4300080: Mesh Group 164
+    4300082: Mesh Group 166
+    4300084: Mesh Group 168
+    4300086: Mesh Group 170
+    4300088: Mesh Group 172
+    4300090: Mesh Group 174
+    4300092: Mesh Group 176
+    4300094: Mesh Group 178
+    4300096: Mesh Group 180
+    4300098: Mesh Group 182
+    4300100: Mesh Group 184
+    4300102: Mesh Group 186
+    4300104: Mesh Hub and Crowd 1/8
+    4300106: Mesh Nose (RP stowed)#1
+    4300108: Mesh Component#76
+    4300110: Mesh Component#67
+    4300112: Mesh Component#23
+    4300114: Mesh Component#1
+    4300116: Mesh Component#79
+    4300118: Mesh Component#75
+    4300120: Mesh OBJ2
+    4300122: Mesh OBJ1#1
+    4300124: Mesh Aerial 3
+    4300126: Mesh Aerial 3
+    4300128: Mesh arresting hook
+    4300130: Mesh aerial 1-1/2#1
+    4300132: Mesh Component#77
+    4300134: Mesh temp5
+    4300136: Mesh Component#72
+    4300138: Mesh Component#28
+    4300140: Mesh HUD display braket
+    4300142: Mesh HUD 1/2#1
+    4300144: Mesh Component#71
+    4300146: Mesh Group 571
+    4300148: Mesh Group 573
+    4300150: Mesh Group 575
+    4300152: Mesh Wt/Lr 1/2#1
+    4300154: Mesh Component#4
+    4300156: Mesh Wt/Lr 1/2#1
+    4300158: Mesh Component#18
+    4300160: Mesh flap
+    4300162: Mesh leadingedge#1
+    4300164: Mesh aileron
+    4300166: Mesh OBJ23
+    4300168: Mesh OBJ24
+    4300170: Mesh Component#26
+    4300172: Mesh IMR sensor 1/4
+    4300174: Mesh IR Sensor 1/2
+    4300176: Mesh Component#74
+    4300178: Mesh OM sensor 1/4
+    4300180: Mesh IER sensor 1/2
+    4300182: Mesh Rudder
+    4300184: Mesh Component#82
+    4300186: Mesh Component#14
+    4300188: Mesh temp#1
+    4300190: Mesh Component#31
+    4300192: Mesh temp#1
+    4300194: Mesh Component#68
+    4300196: Mesh aerial 1-1/2#1
+    4300198: Mesh Pilot Probe 1/2#1
+    4300200: Mesh polits probe tube 1/4#1
+    4300202: Mesh polits probe tube 1/4#1
+    4300204: Mesh Component#87
+    4300206: Mesh Component#33
+    4300208: Mesh Component#88
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
