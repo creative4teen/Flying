@@ -15,18 +15,18 @@ public class CameraControl : MonoBehaviour {
         Transform trans = this.transform;
         Rigidbody rigid = this.GetComponent<Rigidbody>();
 
-        float roll = Input.GetAxis("Horizontal")*1.5f;
+        float roll = Input.GetAxis("Horizontal")*3f;
         if (roll < 0.00001 && roll > -0.00001) {
-            roll = CrossPlatformInputManager.GetAxis("Horizontal") * 1.5f;
+            roll = CrossPlatformInputManager.GetAxis("Horizontal") * 3f;
         }
-        float pitch = -Input.GetAxis("Vertical") * 1.5f;
+        float pitch = -Input.GetAxis("Vertical") * 3f;
         if (pitch < 0.00001 && pitch > -0.00001) {
-            pitch = CrossPlatformInputManager.GetAxis("Vertical") * 1.5f;
+            pitch = CrossPlatformInputManager.GetAxis("Vertical") * 3f;
         }
-        pitch = pitch + 0.05f;
+        pitch = pitch + 0.5f;
         //
-        roll = Mathf.Clamp(roll, -0.1f, 0.1f);
-        pitch = Mathf.Clamp(pitch, -0.1f, 0.1f);
+        roll = Mathf.Clamp(roll, -0.5f, 1f);
+        pitch = Mathf.Clamp(pitch, -0.5f, 1f);
         //
         this.transform.Rotate(-pitch, roll, 0);
 

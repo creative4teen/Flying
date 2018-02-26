@@ -11,7 +11,7 @@ public class Env : MonoBehaviour {
     private int currentPlaneIndex;
     private GameObject current3DObject;
 
-    private GameObject camera;
+    private GameObject mainCamera;
     private bool zoom = false;
 
     private AudioSource music;
@@ -19,10 +19,11 @@ public class Env : MonoBehaviour {
 
 
     private void Awake() {
-        camera = this.transform.Find("Camera").gameObject;
+        mainCamera = this.transform.Find("VR").gameObject;
+        mainCamera.SetActive(true);
         music = this.transform.GetComponent<AudioSource>();
-
     }
+
     // Use this for initialization
     void Start () {
         currentPlaneIndex = 0;
@@ -32,7 +33,6 @@ public class Env : MonoBehaviour {
 
     // Update is called once per frame
     void FixedUpdate () {
-        float reducer = 0.99f;
         Vector3 pos = Vector3.zero;
 
         if (zoom) {
@@ -42,7 +42,7 @@ public class Env : MonoBehaviour {
             pos = new Vector3(current3DObject.transform.position.x + 45, current3DObject.transform.position.y + 5, current3DObject.transform.position.z - 35);
         }
 
-        Transform trans = camera.transform;
+        Transform trans = mainCamera.transform;
         trans.position = pos;
 
     }
