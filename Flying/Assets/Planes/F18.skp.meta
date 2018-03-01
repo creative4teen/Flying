@@ -5,25 +5,25 @@ licenseType: Free
 SketchUpImporter:
   generateBackFace: 0
   mergeCoplanarFaces: 0
-  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c000000
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d000000
   assetHash:
     serializedVersion: 2
-    Hash: b9c29184aee4274e89e18b4b8bba1838
+    Hash: 06ed9b7c6888c730b938dfce81cc246b
   longitude: -105.283
   latitude: 40.017
   northCorrection: -0
   fileUnit: 0
   sketchUpImportData:
     defaultCamera:
-      position: {x: 24.468433, y: 6.103595, z: 17.212122}
-      lookAt: {x: 0.48261133, y: 5.115683, z: 12.124371}
-      up: {x: -0.039382026, y: 0.9991893, z: -0.008353518}
+      position: {x: 8.259841, y: 1.4870021, z: -19.786549}
+      lookAt: {x: -2.0444853, y: 3.3221285, z: 2.4088109}
+      up: {x: 0.03149027, y: 0.99719983, z: -0.067829564}
       fov: 35
       aspectRatio: 0
       orthoSize: 1
       isPerspective: 1
     scenes: []
-  serializedVersion: 21
+  serializedVersion: 22
   fileIDToRecycleName:
     100000: //RootNode
     100002: "\u7EC4\u4EF6#102"
@@ -66,6 +66,7 @@ SketchUpImporter:
     100076: "\u7EC4\u4EF6#17 1"
     100078: "\u7EC4\u4EF6#95"
     100080: "\u7EC4\u4EF6#95 1"
+    100082: Component#1
     400000: //RootNode
     400002: "\u7EC4\u4EF6#102"
     400004: "\u7EC4\u4EF6#118"
@@ -107,6 +108,7 @@ SketchUpImporter:
     400076: "\u7EC4\u4EF6#17 1"
     400078: "\u7EC4\u4EF6#95"
     400080: "\u7EC4\u4EF6#95 1"
+    400082: Component#1
     2300000: "\u7EC4\u4EF6#102"
     2300002: "\u7EC4\u4EF6#118"
     2300004: "\u7EC4\u4EF6#118 1"
@@ -201,10 +203,122 @@ SketchUpImporter:
     4300038: "Mesh \u7EC4\u4EF6#155"
     4300040: "Mesh \u7EC4\u4EF6#152"
     4300042: "Mesh \u7EC4\u4EF6#144"
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _1
+    second: {fileID: 2100000, guid: 92f6266267787424f8b70bb2cdee3874, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _11
+    second: {fileID: 2100000, guid: c8fb728714667b842bf4cad8b568ab4b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _12
+    second: {fileID: 2100000, guid: 7726e96813c958a4f890cbcbd0b6fd57, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _13
+    second: {fileID: 2100000, guid: 4e36625e210f7b4469ea300e18f05e75, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _14
+    second: {fileID: 2100000, guid: ef50dff9db37c1a4da4f40dbf515b0d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _16
+    second: {fileID: 2100000, guid: ad488c050ea6be443b84d82f49e6475b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _28
+    second: {fileID: 2100000, guid: 5cf71573efeb96e41a3ba0a6f87982e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _29
+    second: {fileID: 2100000, guid: 3479566cf6abb4742821ef1955d7cf96, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _3
+    second: {fileID: 2100000, guid: 3b6f0c31b466af84d86d4e095d5bda3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _5
+    second: {fileID: 2100000, guid: d2470482bd7052b4a97d64918bea977a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _6
+    second: {fileID: 2100000, guid: ef599b998e32fb145a2945f91bb6d67a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _7
+    second: {fileID: 2100000, guid: 16388aec24bb69d4fb825f8a0b9a45ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Black_
+    second: {fileID: 2100000, guid: a9bb21724a1561542b074e7b3bb2a42c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Charcoal_
+    second: {fileID: 2100000, guid: d5410b257adc30744aa823625ca22fb9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _DarkGoldenrod_
+    second: {fileID: 2100000, guid: f87c5c889a7cf864ea26e46ecf82a0ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Gray6_
+    second: {fileID: 2100000, guid: 26f2bfe2a2132f841a877968d5a65d48, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Gray6_1
+    second: {fileID: 2100000, guid: b9c478d2ac0a31745b58474f095ed3ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Gray6_2
+    second: {fileID: 2100000, guid: 9bdede47568ea7d4db3235fcbad135a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Gray_
+    second: {fileID: 2100000, guid: 6d681ba84ad2f634b8f540713a76a15f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _White_
+    second: {fileID: 2100000, guid: abf588b27b75bc44d81f1becf2cdf8ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _defaultMat
+    second: {fileID: 2100000, guid: ec6ccd75d8a670f4288833f4cb94e4e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jean blue
+    second: {fileID: 2100000, guid: 7f6597fa838b2a945bdcf75991024d71, type: 2}
   materials:
     importMaterials: 1
     materialName: 2
     materialSearch: 0
+    materialLocation: 0
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
@@ -217,6 +331,7 @@ SketchUpImporter:
     animationImportWarnings: 
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
     animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
@@ -241,6 +356,8 @@ SketchUpImporter:
     optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88

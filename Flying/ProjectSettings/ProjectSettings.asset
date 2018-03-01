@@ -261,7 +261,7 @@ PlayerSettings:
   - m_BuildTarget: 
     m_Icons:
     - serializedVersion: 2
-      m_Icon: {fileID: 2800000, guid: adeed78ded150fe469423c869edc52d4, type: 3}
+      m_Icon: {fileID: 2800000, guid: afbeaa850ed1ba047a2aacb4e0e08690, type: 3}
       m_Width: 128
       m_Height: 128
       m_Kind: 0
@@ -655,7 +655,8 @@ PlayerSettings:
     daydream:
       daydreamIconForeground: {fileID: 0}
       daydreamIconBackground: {fileID: 0}
-  cloudServicesEnabled: {}
+  cloudServicesEnabled:
+    UNet: 1
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
   cloudProjectId: d8cb7b39-212f-4906-8deb-c23dbfcecfcf

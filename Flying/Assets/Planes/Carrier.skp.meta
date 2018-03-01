@@ -1,0 +1,1980 @@
+fileFormatVersion: 2
+guid: 4de254d6d0b29a54395bd1bd865bf428
+timeCreated: 1519746038
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000e0000000e1000000e2000000e3000000e4000000e5000000e6000000e7000000e8000000e9000000ea000000eb000000ec000000ed000000ee000000ef000000f0000000f1000000f2000000f3000000f4000000f5000000f6000000f7000000f8000000f9000000fa000000fb000000fc000000fd000000fe000000ff000000000100000101000002010000030100000401000005010000060100000701000008010000090100000a0100000b0100000c0100000d0100000e0100000f010000100100001101000012010000130100001401000015010000160100001701000018010000190100001a0100001b0100001c0100001d0100001e0100001f010000200100002101000022010000230100002401000025010000260100002701000028010000290100002a0100002b0100002c0100002d0100002e0100002f010000300100003101000032010000330100003401000035010000360100003701000038010000390100003a0100003b0100003c0100003d0100003e0100003f010000400100004101000042010000430100004401000045010000460100004701000048010000490100004a0100004b0100004c0100004d0100004e0100004f010000500100005101000052010000530100005401000055010000560100005701000058010000590100005a0100005b0100005c0100005d0100005e0100005f010000600100006101000062010000630100006401000065010000660100006701000068010000690100006a0100006b0100006c0100006d0100006e0100006f010000700100007101000072010000730100007401000075010000760100007701000078010000790100007a0100007b0100007c0100007d0100007e0100007f010000800100008101000082010000830100008401000085010000860100008701000088010000890100008a0100008b0100008c0100008d0100008e0100008f010000900100009101000092010000930100009401000095010000960100009701000098010000990100009a0100009b0100009c0100009d0100009e0100009f010000a0010000a1010000a2010000a3010000a4010000a5010000a6010000a7010000a8010000a9010000aa010000ab010000ac010000ad010000ae010000af010000b0010000b1010000b2010000b3010000b4010000b5010000b6010000b7010000b8010000b9010000ba010000bb010000bc010000bd010000be010000bf010000c0010000c1010000c2010000c3010000c4010000c5010000c6010000c7010000c8010000c9010000ca010000cb010000cc010000cd010000ce010000cf010000d0010000d1010000d2010000d3010000d4010000d5010000d6010000d7010000d8010000d9010000da010000db010000dc010000dd010000de010000df010000e0010000e1010000e2010000e3010000e4010000e5010000e6010000e7010000e8010000e9010000ea010000eb010000ec010000ed010000ee010000ef010000f0010000f1010000f2010000f3010000f4010000f5010000f6010000f7010000f8010000f9010000fa010000fb010000fc010000fd010000fe010000ff010000000200000102000002020000030200000402000005020000060200000702000008020000090200000a0200000b0200000c0200000d0200000e0200000f020000100200001102000012020000130200001402000015020000160200001702000018020000190200001a0200001b0200001c0200001d0200001e0200001f020000200200002102000022020000230200002402000025020000260200002702000028020000290200002a0200002b0200002c0200002d0200002e0200002f020000300200003102000032020000330200003402000035020000360200003702000038020000390200003a0200003b0200003c0200003d0200003e0200003f020000400200004102000042020000430200004402000045020000460200004702000048020000490200004a0200004b0200004c0200004d0200004e0200004f020000500200005102000052020000530200005402000055020000560200005702000058020000590200005a0200005b0200005c0200005d0200005e0200005f020000600200006102000062020000630200006402000065020000660200006702000068020000690200006a0200006b0200006c0200006d0200006e0200006f020000700200007102000072020000730200007402000075020000760200007702000078020000790200007a0200007b0200007c0200007d0200007e0200007f020000800200008102000082020000830200008402000085020000860200008702000088020000890200008a0200008b0200008c0200008d0200008e0200008f020000900200009102000092020000930200009402000095020000960200009702000098020000990200009a0200009b0200009c0200009d0200009e0200009f020000a0020000a1020000a2020000a3020000a4020000a5020000a6020000a7020000a8020000a9020000aa020000ab020000ac020000ad020000ae020000af020000b0020000b1020000b2020000b3020000b4020000b5020000b6020000b7020000b8020000b9020000ba020000bb020000bc020000bd020000be020000bf020000c0020000c1020000c2020000c3020000c4020000c5020000c6020000c7020000c8020000c9020000ca020000cb020000cc020000cd020000ce020000cf020000d0020000d1020000d2020000d3020000d4020000d5020000d6020000d7020000d8020000d9020000da020000db020000dc020000dd020000de020000df020000e0020000e1020000e2020000e3020000e4020000e5020000e6020000e7020000e8020000e9020000ea020000eb020000ec020000ed020000ee020000ef020000f0020000f1020000f2020000f3020000f4020000f5020000f6020000f7020000f8020000f9020000fa020000fb020000fc020000fd020000fe020000ff020000000300000103000002030000030300000403000005030000060300000703000008030000090300000a0300000b0300000c0300000d0300000e0300000f030000100300001103000012030000130300001403000015030000160300001703000018030000190300001a0300001b0300001c0300001d0300001e0300001f030000200300002103000022030000230300002403000025030000260300002703000028030000290300002a0300002b0300002c0300002d0300002e0300002f030000300300003103000032030000330300003403000035030000360300003703000038030000390300003a0300003b0300003c0300003d0300003e0300003f030000400300004103000042030000430300004403000045030000460300004703000048030000490300004a0300004b0300004c0300004d0300004e0300004f030000500300005103000052030000530300005403000055030000560300005703000058030000590300005a0300005b0300005c0300005d0300005e0300005f030000600300006103000062030000630300006403000065030000660300006703000068030000690300006a0300006b0300006c0300006d0300006e0300006f030000700300007103000072030000730300007403000075030000760300007703000078030000790300007a0300007b0300007c0300007d0300007e0300007f0300008003000081030000
+  assetHash:
+    serializedVersion: 2
+    Hash: 4fcf891235fad372b622cde4e7262e9f
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 80.75825, y: 70.426285, z: 23.743484}
+      lookAt: {x: -24241.21, y: -4771.805, z: 10096.677}
+      up: {x: -0.16713673, y: 0.9835009, z: 0.06921961}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: '"Meat Ball"#1'
+    100002: Anchor
+    100004: Anchor 1
+    100006: Arresting gear
+    100008: Base
+    100010: Blast doors
+    100012: Blast doors 1
+    100014: Blast doors 2
+    100016: Blast doors 3
+    100018: Blast doors 4
+    100020: Blast doors 5
+    100022: Blast doors 6
+    100024: Blast doors 7
+    100026: Blast doors 8
+    100028: Blast doors 9
+    100030: //RootNode
+    100032: Catapult
+    100034: Catapult 1
+    100036: Catapult 2
+    100038: Catapult 3
+    100040: Component#1
+    100042: Component#1 1
+    100044: Component#1 2
+    100046: Component#1 3
+    100048: Component#10
+    100050: Component#10 1
+    100052: Component#10 2
+    100054: Component#11
+    100056: Component#11 1
+    100058: Component#12
+    100060: Component#12 1
+    100062: Component#12 10
+    100064: Component#12 11
+    100066: Component#12 2
+    100068: Component#12 3
+    100070: Component#12 4
+    100072: Component#12 5
+    100074: Component#12 6
+    100076: Component#12 7
+    100078: Component#12 8
+    100080: Component#12 9
+    100082: Component#13
+    100084: Component#13 1
+    100086: Component#13 2
+    100088: Component#13 3
+    100090: Component#13 4
+    100092: Component#13 5
+    100094: Component#13 6
+    100096: Component#13 7
+    100098: Component#14
+    100100: Component#15
+    100102: Component#16
+    100104: Component#17
+    100106: Component#17 1
+    100108: Component#17 10
+    100110: Component#17 11
+    100112: Component#17 12
+    100114: Component#17 13
+    100116: Component#17 14
+    100118: Component#17 15
+    100120: Component#17 16
+    100122: Component#17 17
+    100124: Component#17 18
+    100126: Component#17 19
+    100128: Component#17 2
+    100130: Component#17 20
+    100132: Component#17 21
+    100134: Component#17 22
+    100136: Component#17 23
+    100138: Component#17 24
+    100140: Component#17 25
+    100142: Component#17 26
+    100144: Component#17 27
+    100146: Component#17 28
+    100148: Component#17 29
+    100150: Component#17 3
+    100152: Component#17 30
+    100154: Component#17 31
+    100156: Component#17 32
+    100158: Component#17 33
+    100160: Component#17 34
+    100162: Component#17 35
+    100164: Component#17 36
+    100166: Component#17 37
+    100168: Component#17 38
+    100170: Component#17 39
+    100172: Component#17 4
+    100174: Component#17 40
+    100176: Component#17 41
+    100178: Component#17 42
+    100180: Component#17 43
+    100182: Component#17 44
+    100184: Component#17 45
+    100186: Component#17 46
+    100188: Component#17 47
+    100190: Component#17 5
+    100192: Component#17 6
+    100194: Component#17 7
+    100196: Component#17 8
+    100198: Component#17 9
+    100200: Component#18
+    100202: Component#18 1
+    100204: Component#18 2
+    100206: Component#18 3
+    100208: Component#18 4
+    100210: Component#18 5
+    100212: Component#18 6
+    100214: Component#18 7
+    100216: Component#19
+    100218: Component#19 1
+    100220: Component#19 2
+    100222: Component#19 3
+    100224: Component#2
+    100226: Component#2 1
+    100228: Component#2 10
+    100230: Component#2 11
+    100232: Component#2 12
+    100234: Component#2 13
+    100236: Component#2 14
+    100238: Component#2 15
+    100240: Component#2 16
+    100242: Component#2 17
+    100244: Component#2 18
+    100246: Component#2 19
+    100248: Component#2 2
+    100250: Component#2 20
+    100252: Component#2 21
+    100254: Component#2 22
+    100256: Component#2 23
+    100258: Component#2 24
+    100260: Component#2 25
+    100262: Component#2 26
+    100264: Component#2 27
+    100266: Component#2 28
+    100268: Component#2 29
+    100270: Component#2 3
+    100272: Component#2 30
+    100274: Component#2 31
+    100276: Component#2 32
+    100278: Component#2 33
+    100280: Component#2 34
+    100282: Component#2 35
+    100284: Component#2 36
+    100286: Component#2 37
+    100288: Component#2 38
+    100290: Component#2 39
+    100292: Component#2 4
+    100294: Component#2 40
+    100296: Component#2 41
+    100298: Component#2 42
+    100300: Component#2 43
+    100302: Component#2 44
+    100304: Component#2 45
+    100306: Component#2 46
+    100308: Component#2 47
+    100310: Component#2 48
+    100312: Component#2 49
+    100314: Component#2 5
+    100316: Component#2 50
+    100318: Component#2 51
+    100320: Component#2 52
+    100322: Component#2 53
+    100324: Component#2 54
+    100326: Component#2 55
+    100328: Component#2 56
+    100330: Component#2 57
+    100332: Component#2 58
+    100334: Component#2 59
+    100336: Component#2 6
+    100338: Component#2 7
+    100340: Component#2 8
+    100342: Component#2 9
+    100344: Component#3
+    100346: Component#3 1
+    100348: Component#3 10
+    100350: Component#3 11
+    100352: Component#3 12
+    100354: Component#3 13
+    100356: Component#3 14
+    100358: Component#3 15
+    100360: Component#3 16
+    100362: Component#3 17
+    100364: Component#3 18
+    100366: Component#3 19
+    100368: Component#3 2
+    100370: Component#3 20
+    100372: Component#3 21
+    100374: Component#3 22
+    100376: Component#3 23
+    100378: Component#3 24
+    100380: Component#3 25
+    100382: Component#3 26
+    100384: Component#3 27
+    100386: Component#3 28
+    100388: Component#3 29
+    100390: Component#3 3
+    100392: Component#3 30
+    100394: Component#3 31
+    100396: Component#3 32
+    100398: Component#3 33
+    100400: Component#3 34
+    100402: Component#3 35
+    100404: Component#3 36
+    100406: Component#3 37
+    100408: Component#3 38
+    100410: Component#3 39
+    100412: Component#3 4
+    100414: Component#3 40
+    100416: Component#3 41
+    100418: Component#3 42
+    100420: Component#3 43
+    100422: Component#3 44
+    100424: Component#3 45
+    100426: Component#3 46
+    100428: Component#3 47
+    100430: Component#3 48
+    100432: Component#3 49
+    100434: Component#3 5
+    100436: Component#3 50
+    100438: Component#3 51
+    100440: Component#3 52
+    100442: Component#3 53
+    100444: Component#3 54
+    100446: Component#3 55
+    100448: Component#3 56
+    100450: Component#3 57
+    100452: Component#3 58
+    100454: Component#3 59
+    100456: Component#3 6
+    100458: Component#3 7
+    100460: Component#3 8
+    100462: Component#3 9
+    100464: Component#34
+    100466: Component#34 1
+    100468: Component#34 2
+    100470: Component#34 3
+    100472: Component#34 4
+    100474: Component#34 5
+    100476: Component#4
+    100478: Component#5
+    100480: Component#6
+    100482: Component#7
+    100484: Component#7 1
+    100486: Component#7 2
+    100488: Component#7 3
+    100490: Component#7 4
+    100492: Component#7 5
+    100494: Component#7 6
+    100496: Component#7 7
+    100498: Component#7 8
+    100500: Component#7 9
+    100502: Component#9
+    100504: Component#9 1
+    100506: Evolved Sea Sparrow
+    100508: Evolved Sea Sparrow 1
+    100510: Group 4
+    100512: Group 610
+    100514: Group 706
+    100516: Group 832
+    100518: Group 836
+    100520: Group#8
+    100522: Hangar blast doors
+    100524: Hangar blast doors 1
+    100526: Hangar blast doors 2
+    100528: Hangar blast doors 3
+    100530: Liferaft Rack
+    100532: Liferaft Rack 1
+    100534: Liferaft Rack 10
+    100536: Liferaft Rack 11
+    100538: Liferaft Rack 12
+    100540: Liferaft Rack 13
+    100542: Liferaft Rack 14
+    100544: Liferaft Rack 15
+    100546: Liferaft Rack 16
+    100548: Liferaft Rack 17
+    100550: Liferaft Rack 18
+    100552: Liferaft Rack 19
+    100554: Liferaft Rack 2
+    100556: Liferaft Rack 20
+    100558: Liferaft Rack 21
+    100560: Liferaft Rack 22
+    100562: Liferaft Rack 23
+    100564: Liferaft Rack 24
+    100566: Liferaft Rack 25
+    100568: Liferaft Rack 26
+    100570: Liferaft Rack 27
+    100572: Liferaft Rack 28
+    100574: Liferaft Rack 29
+    100576: Liferaft Rack 3
+    100578: Liferaft Rack 30
+    100580: Liferaft Rack 31
+    100582: Liferaft Rack 32
+    100584: Liferaft Rack 33
+    100586: Liferaft Rack 34
+    100588: Liferaft Rack 35
+    100590: Liferaft Rack 36
+    100592: Liferaft Rack 37
+    100594: Liferaft Rack 38
+    100596: Liferaft Rack 39
+    100598: Liferaft Rack 4
+    100600: Liferaft Rack 40
+    100602: Liferaft Rack 41
+    100604: Liferaft Rack 42
+    100606: Liferaft Rack 43
+    100608: Liferaft Rack 44
+    100610: Liferaft Rack 45
+    100612: Liferaft Rack 46
+    100614: Liferaft Rack 47
+    100616: Liferaft Rack 48
+    100618: Liferaft Rack 49
+    100620: Liferaft Rack 5
+    100622: Liferaft Rack 50
+    100624: Liferaft Rack 51
+    100626: Liferaft Rack 52
+    100628: Liferaft Rack 53
+    100630: Liferaft Rack 54
+    100632: Liferaft Rack 55
+    100634: Liferaft Rack 56
+    100636: Liferaft Rack 57
+    100638: Liferaft Rack 58
+    100640: Liferaft Rack 59
+    100642: Liferaft Rack 6
+    100644: Liferaft Rack 7
+    100646: Liferaft Rack 8
+    100648: Liferaft Rack 9
+    100650: Mellenium CIWS
+    100652: Missile launcher#1
+    100654: Missile launcher#1 1
+    100656: MK-8 liferaft
+    100658: MK-8 liferaft 1
+    100660: MK-8 liferaft 10
+    100662: MK-8 liferaft 100
+    100664: MK-8 liferaft 101
+    100666: MK-8 liferaft 102
+    100668: MK-8 liferaft 103
+    100670: MK-8 liferaft 104
+    100672: MK-8 liferaft 105
+    100674: MK-8 liferaft 106
+    100676: MK-8 liferaft 107
+    100678: MK-8 liferaft 108
+    100680: MK-8 liferaft 109
+    100682: MK-8 liferaft 11
+    100684: MK-8 liferaft 110
+    100686: MK-8 liferaft 111
+    100688: MK-8 liferaft 112
+    100690: MK-8 liferaft 113
+    100692: MK-8 liferaft 114
+    100694: MK-8 liferaft 115
+    100696: MK-8 liferaft 116
+    100698: MK-8 liferaft 117
+    100700: MK-8 liferaft 118
+    100702: MK-8 liferaft 119
+    100704: MK-8 liferaft 12
+    100706: MK-8 liferaft 13
+    100708: MK-8 liferaft 14
+    100710: MK-8 liferaft 15
+    100712: MK-8 liferaft 16
+    100714: MK-8 liferaft 17
+    100716: MK-8 liferaft 18
+    100718: MK-8 liferaft 19
+    100720: MK-8 liferaft 2
+    100722: MK-8 liferaft 20
+    100724: MK-8 liferaft 21
+    100726: MK-8 liferaft 22
+    100728: MK-8 liferaft 23
+    100730: MK-8 liferaft 24
+    100732: MK-8 liferaft 25
+    100734: MK-8 liferaft 26
+    100736: MK-8 liferaft 27
+    100738: MK-8 liferaft 28
+    100740: MK-8 liferaft 29
+    100742: MK-8 liferaft 3
+    100744: MK-8 liferaft 30
+    100746: MK-8 liferaft 31
+    100748: MK-8 liferaft 32
+    100750: MK-8 liferaft 33
+    100752: MK-8 liferaft 34
+    100754: MK-8 liferaft 35
+    100756: MK-8 liferaft 36
+    100758: MK-8 liferaft 37
+    100760: MK-8 liferaft 38
+    100762: MK-8 liferaft 39
+    100764: MK-8 liferaft 4
+    100766: MK-8 liferaft 40
+    100768: MK-8 liferaft 41
+    100770: MK-8 liferaft 42
+    100772: MK-8 liferaft 43
+    100774: MK-8 liferaft 44
+    100776: MK-8 liferaft 45
+    100778: MK-8 liferaft 46
+    100780: MK-8 liferaft 47
+    100782: MK-8 liferaft 48
+    100784: MK-8 liferaft 49
+    100786: MK-8 liferaft 5
+    100788: MK-8 liferaft 50
+    100790: MK-8 liferaft 51
+    100792: MK-8 liferaft 52
+    100794: MK-8 liferaft 53
+    100796: MK-8 liferaft 54
+    100798: MK-8 liferaft 55
+    100800: MK-8 liferaft 56
+    100802: MK-8 liferaft 57
+    100804: MK-8 liferaft 58
+    100806: MK-8 liferaft 59
+    100808: MK-8 liferaft 6
+    100810: MK-8 liferaft 60
+    100812: MK-8 liferaft 61
+    100814: MK-8 liferaft 62
+    100816: MK-8 liferaft 63
+    100818: MK-8 liferaft 64
+    100820: MK-8 liferaft 65
+    100822: MK-8 liferaft 66
+    100824: MK-8 liferaft 67
+    100826: MK-8 liferaft 68
+    100828: MK-8 liferaft 69
+    100830: MK-8 liferaft 7
+    100832: MK-8 liferaft 70
+    100834: MK-8 liferaft 71
+    100836: MK-8 liferaft 72
+    100838: MK-8 liferaft 73
+    100840: MK-8 liferaft 74
+    100842: MK-8 liferaft 75
+    100844: MK-8 liferaft 76
+    100846: MK-8 liferaft 77
+    100848: MK-8 liferaft 78
+    100850: MK-8 liferaft 79
+    100852: MK-8 liferaft 8
+    100854: MK-8 liferaft 80
+    100856: MK-8 liferaft 81
+    100858: MK-8 liferaft 82
+    100860: MK-8 liferaft 83
+    100862: MK-8 liferaft 84
+    100864: MK-8 liferaft 85
+    100866: MK-8 liferaft 86
+    100868: MK-8 liferaft 87
+    100870: MK-8 liferaft 88
+    100872: MK-8 liferaft 89
+    100874: MK-8 liferaft 9
+    100876: MK-8 liferaft 90
+    100878: MK-8 liferaft 91
+    100880: MK-8 liferaft 92
+    100882: MK-8 liferaft 93
+    100884: MK-8 liferaft 94
+    100886: MK-8 liferaft 95
+    100888: MK-8 liferaft 96
+    100890: MK-8 liferaft 97
+    100892: MK-8 liferaft 98
+    100894: MK-8 liferaft 99
+    100896: MK41 VLS
+    100898: MK41 VLS 1
+    100900: MK41 VLS 2
+    100902: MK41 VLS 3
+    100904: MK41 VLS 4
+    100906: MK41 VLS 5
+    100908: RIM 116
+    100910: RIM 116 1
+    100912: RIM turret base#1
+    100914: RIM turret base#1 1
+    100916: Sea Sparrow Launcher
+    100918: Sea Sparrow Launcher 1
+    100920: Searchlight
+    100922: Searchlight 1
+    100924: SMART-L
+    100926: Base 1
+    100928: Base 2
+    100930: Base 3
+    100932: Base 4
+    100934: Command Center
+    100936: Component#15 1
+    100938: Component#15 2
+    100940: Component#15 3
+    100942: Component#15 4
+    100944: Component#16 1
+    100946: Component#16 2
+    100948: Component#16 3
+    100950: Component#16 4
+    100952: Component#8
+    100954: Group 12
+    100956: Group 40
+    100958: Group 44
+    100960: Group 56
+    100962: Group 76
+    100964: Group#8 1
+    100966: Group#8 2
+    100968: Group#8 3
+    100970: Group#8 4
+    100972: Mellenium CIWS 1
+    100974: Mellenium CIWS 2
+    100976: Mellenium CIWS 3
+    100978: Mellenium CIWS 4
+    100980: Radar
+    400000: '"Meat Ball"#1'
+    400002: Anchor
+    400004: Anchor 1
+    400006: Arresting gear
+    400008: Base
+    400010: Blast doors
+    400012: Blast doors 1
+    400014: Blast doors 2
+    400016: Blast doors 3
+    400018: Blast doors 4
+    400020: Blast doors 5
+    400022: Blast doors 6
+    400024: Blast doors 7
+    400026: Blast doors 8
+    400028: Blast doors 9
+    400030: //RootNode
+    400032: Catapult
+    400034: Catapult 1
+    400036: Catapult 2
+    400038: Catapult 3
+    400040: Component#1
+    400042: Component#1 1
+    400044: Component#1 2
+    400046: Component#1 3
+    400048: Component#10
+    400050: Component#10 1
+    400052: Component#10 2
+    400054: Component#11
+    400056: Component#11 1
+    400058: Component#12
+    400060: Component#12 1
+    400062: Component#12 10
+    400064: Component#12 11
+    400066: Component#12 2
+    400068: Component#12 3
+    400070: Component#12 4
+    400072: Component#12 5
+    400074: Component#12 6
+    400076: Component#12 7
+    400078: Component#12 8
+    400080: Component#12 9
+    400082: Component#13
+    400084: Component#13 1
+    400086: Component#13 2
+    400088: Component#13 3
+    400090: Component#13 4
+    400092: Component#13 5
+    400094: Component#13 6
+    400096: Component#13 7
+    400098: Component#14
+    400100: Component#15
+    400102: Component#16
+    400104: Component#17
+    400106: Component#17 1
+    400108: Component#17 10
+    400110: Component#17 11
+    400112: Component#17 12
+    400114: Component#17 13
+    400116: Component#17 14
+    400118: Component#17 15
+    400120: Component#17 16
+    400122: Component#17 17
+    400124: Component#17 18
+    400126: Component#17 19
+    400128: Component#17 2
+    400130: Component#17 20
+    400132: Component#17 21
+    400134: Component#17 22
+    400136: Component#17 23
+    400138: Component#17 24
+    400140: Component#17 25
+    400142: Component#17 26
+    400144: Component#17 27
+    400146: Component#17 28
+    400148: Component#17 29
+    400150: Component#17 3
+    400152: Component#17 30
+    400154: Component#17 31
+    400156: Component#17 32
+    400158: Component#17 33
+    400160: Component#17 34
+    400162: Component#17 35
+    400164: Component#17 36
+    400166: Component#17 37
+    400168: Component#17 38
+    400170: Component#17 39
+    400172: Component#17 4
+    400174: Component#17 40
+    400176: Component#17 41
+    400178: Component#17 42
+    400180: Component#17 43
+    400182: Component#17 44
+    400184: Component#17 45
+    400186: Component#17 46
+    400188: Component#17 47
+    400190: Component#17 5
+    400192: Component#17 6
+    400194: Component#17 7
+    400196: Component#17 8
+    400198: Component#17 9
+    400200: Component#18
+    400202: Component#18 1
+    400204: Component#18 2
+    400206: Component#18 3
+    400208: Component#18 4
+    400210: Component#18 5
+    400212: Component#18 6
+    400214: Component#18 7
+    400216: Component#19
+    400218: Component#19 1
+    400220: Component#19 2
+    400222: Component#19 3
+    400224: Component#2
+    400226: Component#2 1
+    400228: Component#2 10
+    400230: Component#2 11
+    400232: Component#2 12
+    400234: Component#2 13
+    400236: Component#2 14
+    400238: Component#2 15
+    400240: Component#2 16
+    400242: Component#2 17
+    400244: Component#2 18
+    400246: Component#2 19
+    400248: Component#2 2
+    400250: Component#2 20
+    400252: Component#2 21
+    400254: Component#2 22
+    400256: Component#2 23
+    400258: Component#2 24
+    400260: Component#2 25
+    400262: Component#2 26
+    400264: Component#2 27
+    400266: Component#2 28
+    400268: Component#2 29
+    400270: Component#2 3
+    400272: Component#2 30
+    400274: Component#2 31
+    400276: Component#2 32
+    400278: Component#2 33
+    400280: Component#2 34
+    400282: Component#2 35
+    400284: Component#2 36
+    400286: Component#2 37
+    400288: Component#2 38
+    400290: Component#2 39
+    400292: Component#2 4
+    400294: Component#2 40
+    400296: Component#2 41
+    400298: Component#2 42
+    400300: Component#2 43
+    400302: Component#2 44
+    400304: Component#2 45
+    400306: Component#2 46
+    400308: Component#2 47
+    400310: Component#2 48
+    400312: Component#2 49
+    400314: Component#2 5
+    400316: Component#2 50
+    400318: Component#2 51
+    400320: Component#2 52
+    400322: Component#2 53
+    400324: Component#2 54
+    400326: Component#2 55
+    400328: Component#2 56
+    400330: Component#2 57
+    400332: Component#2 58
+    400334: Component#2 59
+    400336: Component#2 6
+    400338: Component#2 7
+    400340: Component#2 8
+    400342: Component#2 9
+    400344: Component#3
+    400346: Component#3 1
+    400348: Component#3 10
+    400350: Component#3 11
+    400352: Component#3 12
+    400354: Component#3 13
+    400356: Component#3 14
+    400358: Component#3 15
+    400360: Component#3 16
+    400362: Component#3 17
+    400364: Component#3 18
+    400366: Component#3 19
+    400368: Component#3 2
+    400370: Component#3 20
+    400372: Component#3 21
+    400374: Component#3 22
+    400376: Component#3 23
+    400378: Component#3 24
+    400380: Component#3 25
+    400382: Component#3 26
+    400384: Component#3 27
+    400386: Component#3 28
+    400388: Component#3 29
+    400390: Component#3 3
+    400392: Component#3 30
+    400394: Component#3 31
+    400396: Component#3 32
+    400398: Component#3 33
+    400400: Component#3 34
+    400402: Component#3 35
+    400404: Component#3 36
+    400406: Component#3 37
+    400408: Component#3 38
+    400410: Component#3 39
+    400412: Component#3 4
+    400414: Component#3 40
+    400416: Component#3 41
+    400418: Component#3 42
+    400420: Component#3 43
+    400422: Component#3 44
+    400424: Component#3 45
+    400426: Component#3 46
+    400428: Component#3 47
+    400430: Component#3 48
+    400432: Component#3 49
+    400434: Component#3 5
+    400436: Component#3 50
+    400438: Component#3 51
+    400440: Component#3 52
+    400442: Component#3 53
+    400444: Component#3 54
+    400446: Component#3 55
+    400448: Component#3 56
+    400450: Component#3 57
+    400452: Component#3 58
+    400454: Component#3 59
+    400456: Component#3 6
+    400458: Component#3 7
+    400460: Component#3 8
+    400462: Component#3 9
+    400464: Component#34
+    400466: Component#34 1
+    400468: Component#34 2
+    400470: Component#34 3
+    400472: Component#34 4
+    400474: Component#34 5
+    400476: Component#4
+    400478: Component#5
+    400480: Component#6
+    400482: Component#7
+    400484: Component#7 1
+    400486: Component#7 2
+    400488: Component#7 3
+    400490: Component#7 4
+    400492: Component#7 5
+    400494: Component#7 6
+    400496: Component#7 7
+    400498: Component#7 8
+    400500: Component#7 9
+    400502: Component#9
+    400504: Component#9 1
+    400506: Evolved Sea Sparrow
+    400508: Evolved Sea Sparrow 1
+    400510: Group 4
+    400512: Group 610
+    400514: Group 706
+    400516: Group 832
+    400518: Group 836
+    400520: Group#8
+    400522: Hangar blast doors
+    400524: Hangar blast doors 1
+    400526: Hangar blast doors 2
+    400528: Hangar blast doors 3
+    400530: Liferaft Rack
+    400532: Liferaft Rack 1
+    400534: Liferaft Rack 10
+    400536: Liferaft Rack 11
+    400538: Liferaft Rack 12
+    400540: Liferaft Rack 13
+    400542: Liferaft Rack 14
+    400544: Liferaft Rack 15
+    400546: Liferaft Rack 16
+    400548: Liferaft Rack 17
+    400550: Liferaft Rack 18
+    400552: Liferaft Rack 19
+    400554: Liferaft Rack 2
+    400556: Liferaft Rack 20
+    400558: Liferaft Rack 21
+    400560: Liferaft Rack 22
+    400562: Liferaft Rack 23
+    400564: Liferaft Rack 24
+    400566: Liferaft Rack 25
+    400568: Liferaft Rack 26
+    400570: Liferaft Rack 27
+    400572: Liferaft Rack 28
+    400574: Liferaft Rack 29
+    400576: Liferaft Rack 3
+    400578: Liferaft Rack 30
+    400580: Liferaft Rack 31
+    400582: Liferaft Rack 32
+    400584: Liferaft Rack 33
+    400586: Liferaft Rack 34
+    400588: Liferaft Rack 35
+    400590: Liferaft Rack 36
+    400592: Liferaft Rack 37
+    400594: Liferaft Rack 38
+    400596: Liferaft Rack 39
+    400598: Liferaft Rack 4
+    400600: Liferaft Rack 40
+    400602: Liferaft Rack 41
+    400604: Liferaft Rack 42
+    400606: Liferaft Rack 43
+    400608: Liferaft Rack 44
+    400610: Liferaft Rack 45
+    400612: Liferaft Rack 46
+    400614: Liferaft Rack 47
+    400616: Liferaft Rack 48
+    400618: Liferaft Rack 49
+    400620: Liferaft Rack 5
+    400622: Liferaft Rack 50
+    400624: Liferaft Rack 51
+    400626: Liferaft Rack 52
+    400628: Liferaft Rack 53
+    400630: Liferaft Rack 54
+    400632: Liferaft Rack 55
+    400634: Liferaft Rack 56
+    400636: Liferaft Rack 57
+    400638: Liferaft Rack 58
+    400640: Liferaft Rack 59
+    400642: Liferaft Rack 6
+    400644: Liferaft Rack 7
+    400646: Liferaft Rack 8
+    400648: Liferaft Rack 9
+    400650: Mellenium CIWS
+    400652: Missile launcher#1
+    400654: Missile launcher#1 1
+    400656: MK-8 liferaft
+    400658: MK-8 liferaft 1
+    400660: MK-8 liferaft 10
+    400662: MK-8 liferaft 100
+    400664: MK-8 liferaft 101
+    400666: MK-8 liferaft 102
+    400668: MK-8 liferaft 103
+    400670: MK-8 liferaft 104
+    400672: MK-8 liferaft 105
+    400674: MK-8 liferaft 106
+    400676: MK-8 liferaft 107
+    400678: MK-8 liferaft 108
+    400680: MK-8 liferaft 109
+    400682: MK-8 liferaft 11
+    400684: MK-8 liferaft 110
+    400686: MK-8 liferaft 111
+    400688: MK-8 liferaft 112
+    400690: MK-8 liferaft 113
+    400692: MK-8 liferaft 114
+    400694: MK-8 liferaft 115
+    400696: MK-8 liferaft 116
+    400698: MK-8 liferaft 117
+    400700: MK-8 liferaft 118
+    400702: MK-8 liferaft 119
+    400704: MK-8 liferaft 12
+    400706: MK-8 liferaft 13
+    400708: MK-8 liferaft 14
+    400710: MK-8 liferaft 15
+    400712: MK-8 liferaft 16
+    400714: MK-8 liferaft 17
+    400716: MK-8 liferaft 18
+    400718: MK-8 liferaft 19
+    400720: MK-8 liferaft 2
+    400722: MK-8 liferaft 20
+    400724: MK-8 liferaft 21
+    400726: MK-8 liferaft 22
+    400728: MK-8 liferaft 23
+    400730: MK-8 liferaft 24
+    400732: MK-8 liferaft 25
+    400734: MK-8 liferaft 26
+    400736: MK-8 liferaft 27
+    400738: MK-8 liferaft 28
+    400740: MK-8 liferaft 29
+    400742: MK-8 liferaft 3
+    400744: MK-8 liferaft 30
+    400746: MK-8 liferaft 31
+    400748: MK-8 liferaft 32
+    400750: MK-8 liferaft 33
+    400752: MK-8 liferaft 34
+    400754: MK-8 liferaft 35
+    400756: MK-8 liferaft 36
+    400758: MK-8 liferaft 37
+    400760: MK-8 liferaft 38
+    400762: MK-8 liferaft 39
+    400764: MK-8 liferaft 4
+    400766: MK-8 liferaft 40
+    400768: MK-8 liferaft 41
+    400770: MK-8 liferaft 42
+    400772: MK-8 liferaft 43
+    400774: MK-8 liferaft 44
+    400776: MK-8 liferaft 45
+    400778: MK-8 liferaft 46
+    400780: MK-8 liferaft 47
+    400782: MK-8 liferaft 48
+    400784: MK-8 liferaft 49
+    400786: MK-8 liferaft 5
+    400788: MK-8 liferaft 50
+    400790: MK-8 liferaft 51
+    400792: MK-8 liferaft 52
+    400794: MK-8 liferaft 53
+    400796: MK-8 liferaft 54
+    400798: MK-8 liferaft 55
+    400800: MK-8 liferaft 56
+    400802: MK-8 liferaft 57
+    400804: MK-8 liferaft 58
+    400806: MK-8 liferaft 59
+    400808: MK-8 liferaft 6
+    400810: MK-8 liferaft 60
+    400812: MK-8 liferaft 61
+    400814: MK-8 liferaft 62
+    400816: MK-8 liferaft 63
+    400818: MK-8 liferaft 64
+    400820: MK-8 liferaft 65
+    400822: MK-8 liferaft 66
+    400824: MK-8 liferaft 67
+    400826: MK-8 liferaft 68
+    400828: MK-8 liferaft 69
+    400830: MK-8 liferaft 7
+    400832: MK-8 liferaft 70
+    400834: MK-8 liferaft 71
+    400836: MK-8 liferaft 72
+    400838: MK-8 liferaft 73
+    400840: MK-8 liferaft 74
+    400842: MK-8 liferaft 75
+    400844: MK-8 liferaft 76
+    400846: MK-8 liferaft 77
+    400848: MK-8 liferaft 78
+    400850: MK-8 liferaft 79
+    400852: MK-8 liferaft 8
+    400854: MK-8 liferaft 80
+    400856: MK-8 liferaft 81
+    400858: MK-8 liferaft 82
+    400860: MK-8 liferaft 83
+    400862: MK-8 liferaft 84
+    400864: MK-8 liferaft 85
+    400866: MK-8 liferaft 86
+    400868: MK-8 liferaft 87
+    400870: MK-8 liferaft 88
+    400872: MK-8 liferaft 89
+    400874: MK-8 liferaft 9
+    400876: MK-8 liferaft 90
+    400878: MK-8 liferaft 91
+    400880: MK-8 liferaft 92
+    400882: MK-8 liferaft 93
+    400884: MK-8 liferaft 94
+    400886: MK-8 liferaft 95
+    400888: MK-8 liferaft 96
+    400890: MK-8 liferaft 97
+    400892: MK-8 liferaft 98
+    400894: MK-8 liferaft 99
+    400896: MK41 VLS
+    400898: MK41 VLS 1
+    400900: MK41 VLS 2
+    400902: MK41 VLS 3
+    400904: MK41 VLS 4
+    400906: MK41 VLS 5
+    400908: RIM 116
+    400910: RIM 116 1
+    400912: RIM turret base#1
+    400914: RIM turret base#1 1
+    400916: Sea Sparrow Launcher
+    400918: Sea Sparrow Launcher 1
+    400920: Searchlight
+    400922: Searchlight 1
+    400924: SMART-L
+    400926: Base 1
+    400928: Base 2
+    400930: Base 3
+    400932: Base 4
+    400934: Command Center
+    400936: Component#15 1
+    400938: Component#15 2
+    400940: Component#15 3
+    400942: Component#15 4
+    400944: Component#16 1
+    400946: Component#16 2
+    400948: Component#16 3
+    400950: Component#16 4
+    400952: Component#8
+    400954: Group 12
+    400956: Group 40
+    400958: Group 44
+    400960: Group 56
+    400962: Group 76
+    400964: Group#8 1
+    400966: Group#8 2
+    400968: Group#8 3
+    400970: Group#8 4
+    400972: Mellenium CIWS 1
+    400974: Mellenium CIWS 2
+    400976: Mellenium CIWS 3
+    400978: Mellenium CIWS 4
+    400980: Radar
+    2100000: '[Color_007]'
+    2100002: Cammo1
+    2100004: Color_1
+    2100006: '[Color_D01]'
+    2100008: _Gray6_
+    2100010: '[Translucent_Glass_Tinted]'
+    2100012: '[Color_A11]'
+    2100014: '[Color_004]'
+    2100016: '[Color_003]'
+    2100018: '[0136_Charcoal]'
+    2100020: '[Color_E05]'
+    2100022: '[Translucent_Glass_Green_Dark]'
+    2100024: '[Color_008]'
+    2100026: '[0132_LightGray]'
+    2100028: '[Fencing_Diamond_Mesh]'
+    2100030: '[Color_009]1'
+    2100032: _Charcoal_
+    2100034: '[Translucent_Glass_Safety]'
+    2300000: '"Meat Ball"#1'
+    2300002: Anchor
+    2300004: Anchor 1
+    2300006: Arresting gear
+    2300008: Base
+    2300010: Blast doors
+    2300012: Blast doors 1
+    2300014: Blast doors 2
+    2300016: Blast doors 3
+    2300018: Blast doors 4
+    2300020: Blast doors 5
+    2300022: Blast doors 6
+    2300024: Blast doors 7
+    2300026: Blast doors 8
+    2300028: Blast doors 9
+    2300030: //RootNode
+    2300032: Catapult
+    2300034: Catapult 1
+    2300036: Catapult 2
+    2300038: Catapult 3
+    2300040: Component#1
+    2300042: Component#1 1
+    2300044: Component#1 2
+    2300046: Component#1 3
+    2300048: Component#10
+    2300050: Component#10 1
+    2300052: Component#10 2
+    2300054: Component#11
+    2300056: Component#11 1
+    2300058: Component#12
+    2300060: Component#12 1
+    2300062: Component#12 10
+    2300064: Component#12 11
+    2300066: Component#12 2
+    2300068: Component#12 3
+    2300070: Component#12 4
+    2300072: Component#12 5
+    2300074: Component#12 6
+    2300076: Component#12 7
+    2300078: Component#12 8
+    2300080: Component#12 9
+    2300082: Component#13
+    2300084: Component#13 1
+    2300086: Component#13 2
+    2300088: Component#13 3
+    2300090: Component#13 4
+    2300092: Component#13 5
+    2300094: Component#13 6
+    2300096: Component#13 7
+    2300098: Component#14
+    2300100: Component#15
+    2300102: Component#17
+    2300104: Component#17 1
+    2300106: Component#17 10
+    2300108: Component#17 11
+    2300110: Component#17 12
+    2300112: Component#17 13
+    2300114: Component#17 14
+    2300116: Component#17 15
+    2300118: Component#17 16
+    2300120: Component#17 17
+    2300122: Component#17 18
+    2300124: Component#17 19
+    2300126: Component#17 2
+    2300128: Component#17 20
+    2300130: Component#17 21
+    2300132: Component#17 22
+    2300134: Component#17 23
+    2300136: Component#17 24
+    2300138: Component#17 25
+    2300140: Component#17 26
+    2300142: Component#17 27
+    2300144: Component#17 28
+    2300146: Component#17 29
+    2300148: Component#17 3
+    2300150: Component#17 30
+    2300152: Component#17 31
+    2300154: Component#17 32
+    2300156: Component#17 33
+    2300158: Component#17 34
+    2300160: Component#17 35
+    2300162: Component#17 36
+    2300164: Component#17 37
+    2300166: Component#17 38
+    2300168: Component#17 39
+    2300170: Component#17 4
+    2300172: Component#17 40
+    2300174: Component#17 41
+    2300176: Component#17 42
+    2300178: Component#17 43
+    2300180: Component#17 44
+    2300182: Component#17 45
+    2300184: Component#17 46
+    2300186: Component#17 47
+    2300188: Component#17 5
+    2300190: Component#17 6
+    2300192: Component#17 7
+    2300194: Component#17 8
+    2300196: Component#17 9
+    2300198: Component#18
+    2300200: Component#18 1
+    2300202: Component#18 2
+    2300204: Component#18 3
+    2300206: Component#18 4
+    2300208: Component#18 5
+    2300210: Component#18 6
+    2300212: Component#18 7
+    2300214: Component#2
+    2300216: Component#2 1
+    2300218: Component#2 10
+    2300220: Component#2 11
+    2300222: Component#2 12
+    2300224: Component#2 13
+    2300226: Component#2 14
+    2300228: Component#2 15
+    2300230: Component#2 16
+    2300232: Component#2 17
+    2300234: Component#2 18
+    2300236: Component#2 19
+    2300238: Component#2 2
+    2300240: Component#2 20
+    2300242: Component#2 21
+    2300244: Component#2 22
+    2300246: Component#2 23
+    2300248: Component#2 24
+    2300250: Component#2 25
+    2300252: Component#2 26
+    2300254: Component#2 27
+    2300256: Component#2 28
+    2300258: Component#2 29
+    2300260: Component#2 3
+    2300262: Component#2 30
+    2300264: Component#2 31
+    2300266: Component#2 32
+    2300268: Component#2 33
+    2300270: Component#2 34
+    2300272: Component#2 35
+    2300274: Component#2 36
+    2300276: Component#2 37
+    2300278: Component#2 38
+    2300280: Component#2 39
+    2300282: Component#2 4
+    2300284: Component#2 40
+    2300286: Component#2 41
+    2300288: Component#2 42
+    2300290: Component#2 43
+    2300292: Component#2 44
+    2300294: Component#2 45
+    2300296: Component#2 46
+    2300298: Component#2 47
+    2300300: Component#2 48
+    2300302: Component#2 49
+    2300304: Component#2 5
+    2300306: Component#2 50
+    2300308: Component#2 51
+    2300310: Component#2 52
+    2300312: Component#2 53
+    2300314: Component#2 54
+    2300316: Component#2 55
+    2300318: Component#2 56
+    2300320: Component#2 57
+    2300322: Component#2 58
+    2300324: Component#2 59
+    2300326: Component#2 6
+    2300328: Component#2 7
+    2300330: Component#2 8
+    2300332: Component#2 9
+    2300334: Component#3
+    2300336: Component#3 1
+    2300338: Component#3 10
+    2300340: Component#3 11
+    2300342: Component#3 12
+    2300344: Component#3 13
+    2300346: Component#3 14
+    2300348: Component#3 15
+    2300350: Component#3 16
+    2300352: Component#3 17
+    2300354: Component#3 18
+    2300356: Component#3 19
+    2300358: Component#3 2
+    2300360: Component#3 20
+    2300362: Component#3 21
+    2300364: Component#3 22
+    2300366: Component#3 23
+    2300368: Component#3 24
+    2300370: Component#3 25
+    2300372: Component#3 26
+    2300374: Component#3 27
+    2300376: Component#3 28
+    2300378: Component#3 29
+    2300380: Component#3 3
+    2300382: Component#3 30
+    2300384: Component#3 31
+    2300386: Component#3 32
+    2300388: Component#3 33
+    2300390: Component#3 34
+    2300392: Component#3 35
+    2300394: Component#3 36
+    2300396: Component#3 37
+    2300398: Component#3 38
+    2300400: Component#3 39
+    2300402: Component#3 4
+    2300404: Component#3 40
+    2300406: Component#3 41
+    2300408: Component#3 42
+    2300410: Component#3 43
+    2300412: Component#3 44
+    2300414: Component#3 45
+    2300416: Component#3 46
+    2300418: Component#3 47
+    2300420: Component#3 48
+    2300422: Component#3 49
+    2300424: Component#3 5
+    2300426: Component#3 50
+    2300428: Component#3 51
+    2300430: Component#3 52
+    2300432: Component#3 53
+    2300434: Component#3 54
+    2300436: Component#3 55
+    2300438: Component#3 56
+    2300440: Component#3 57
+    2300442: Component#3 58
+    2300444: Component#3 59
+    2300446: Component#3 6
+    2300448: Component#3 7
+    2300450: Component#3 8
+    2300452: Component#3 9
+    2300454: Component#34
+    2300456: Component#34 1
+    2300458: Component#34 2
+    2300460: Component#34 3
+    2300462: Component#34 4
+    2300464: Component#34 5
+    2300466: Component#4
+    2300468: Component#5
+    2300470: Component#6
+    2300472: Component#7
+    2300474: Component#7 1
+    2300476: Component#7 2
+    2300478: Component#7 3
+    2300480: Component#7 4
+    2300482: Component#7 5
+    2300484: Component#7 6
+    2300486: Component#7 7
+    2300488: Component#7 8
+    2300490: Component#7 9
+    2300492: Component#9
+    2300494: Component#9 1
+    2300496: Group 4
+    2300498: Group 610
+    2300500: Group 706
+    2300502: Group 832
+    2300504: Group 836
+    2300506: Group#8
+    2300508: Hangar blast doors
+    2300510: Hangar blast doors 1
+    2300512: Hangar blast doors 2
+    2300514: Hangar blast doors 3
+    2300516: Missile launcher#1
+    2300518: Missile launcher#1 1
+    2300520: MK-8 liferaft
+    2300522: MK-8 liferaft 1
+    2300524: MK-8 liferaft 10
+    2300526: MK-8 liferaft 100
+    2300528: MK-8 liferaft 101
+    2300530: MK-8 liferaft 102
+    2300532: MK-8 liferaft 103
+    2300534: MK-8 liferaft 104
+    2300536: MK-8 liferaft 105
+    2300538: MK-8 liferaft 106
+    2300540: MK-8 liferaft 107
+    2300542: MK-8 liferaft 108
+    2300544: MK-8 liferaft 109
+    2300546: MK-8 liferaft 11
+    2300548: MK-8 liferaft 110
+    2300550: MK-8 liferaft 111
+    2300552: MK-8 liferaft 112
+    2300554: MK-8 liferaft 113
+    2300556: MK-8 liferaft 114
+    2300558: MK-8 liferaft 115
+    2300560: MK-8 liferaft 116
+    2300562: MK-8 liferaft 117
+    2300564: MK-8 liferaft 118
+    2300566: MK-8 liferaft 119
+    2300568: MK-8 liferaft 12
+    2300570: MK-8 liferaft 13
+    2300572: MK-8 liferaft 14
+    2300574: MK-8 liferaft 15
+    2300576: MK-8 liferaft 16
+    2300578: MK-8 liferaft 17
+    2300580: MK-8 liferaft 18
+    2300582: MK-8 liferaft 19
+    2300584: MK-8 liferaft 2
+    2300586: MK-8 liferaft 20
+    2300588: MK-8 liferaft 21
+    2300590: MK-8 liferaft 22
+    2300592: MK-8 liferaft 23
+    2300594: MK-8 liferaft 24
+    2300596: MK-8 liferaft 25
+    2300598: MK-8 liferaft 26
+    2300600: MK-8 liferaft 27
+    2300602: MK-8 liferaft 28
+    2300604: MK-8 liferaft 29
+    2300606: MK-8 liferaft 3
+    2300608: MK-8 liferaft 30
+    2300610: MK-8 liferaft 31
+    2300612: MK-8 liferaft 32
+    2300614: MK-8 liferaft 33
+    2300616: MK-8 liferaft 34
+    2300618: MK-8 liferaft 35
+    2300620: MK-8 liferaft 36
+    2300622: MK-8 liferaft 37
+    2300624: MK-8 liferaft 38
+    2300626: MK-8 liferaft 39
+    2300628: MK-8 liferaft 4
+    2300630: MK-8 liferaft 40
+    2300632: MK-8 liferaft 41
+    2300634: MK-8 liferaft 42
+    2300636: MK-8 liferaft 43
+    2300638: MK-8 liferaft 44
+    2300640: MK-8 liferaft 45
+    2300642: MK-8 liferaft 46
+    2300644: MK-8 liferaft 47
+    2300646: MK-8 liferaft 48
+    2300648: MK-8 liferaft 49
+    2300650: MK-8 liferaft 5
+    2300652: MK-8 liferaft 50
+    2300654: MK-8 liferaft 51
+    2300656: MK-8 liferaft 52
+    2300658: MK-8 liferaft 53
+    2300660: MK-8 liferaft 54
+    2300662: MK-8 liferaft 55
+    2300664: MK-8 liferaft 56
+    2300666: MK-8 liferaft 57
+    2300668: MK-8 liferaft 58
+    2300670: MK-8 liferaft 59
+    2300672: MK-8 liferaft 6
+    2300674: MK-8 liferaft 60
+    2300676: MK-8 liferaft 61
+    2300678: MK-8 liferaft 62
+    2300680: MK-8 liferaft 63
+    2300682: MK-8 liferaft 64
+    2300684: MK-8 liferaft 65
+    2300686: MK-8 liferaft 66
+    2300688: MK-8 liferaft 67
+    2300690: MK-8 liferaft 68
+    2300692: MK-8 liferaft 69
+    2300694: MK-8 liferaft 7
+    2300696: MK-8 liferaft 70
+    2300698: MK-8 liferaft 71
+    2300700: MK-8 liferaft 72
+    2300702: MK-8 liferaft 73
+    2300704: MK-8 liferaft 74
+    2300706: MK-8 liferaft 75
+    2300708: MK-8 liferaft 76
+    2300710: MK-8 liferaft 77
+    2300712: MK-8 liferaft 78
+    2300714: MK-8 liferaft 79
+    2300716: MK-8 liferaft 8
+    2300718: MK-8 liferaft 80
+    2300720: MK-8 liferaft 81
+    2300722: MK-8 liferaft 82
+    2300724: MK-8 liferaft 83
+    2300726: MK-8 liferaft 84
+    2300728: MK-8 liferaft 85
+    2300730: MK-8 liferaft 86
+    2300732: MK-8 liferaft 87
+    2300734: MK-8 liferaft 88
+    2300736: MK-8 liferaft 89
+    2300738: MK-8 liferaft 9
+    2300740: MK-8 liferaft 90
+    2300742: MK-8 liferaft 91
+    2300744: MK-8 liferaft 92
+    2300746: MK-8 liferaft 93
+    2300748: MK-8 liferaft 94
+    2300750: MK-8 liferaft 95
+    2300752: MK-8 liferaft 96
+    2300754: MK-8 liferaft 97
+    2300756: MK-8 liferaft 98
+    2300758: MK-8 liferaft 99
+    2300760: MK41 VLS
+    2300762: MK41 VLS 1
+    2300764: MK41 VLS 2
+    2300766: MK41 VLS 3
+    2300768: MK41 VLS 4
+    2300770: MK41 VLS 5
+    2300772: RIM 116
+    2300774: RIM 116 1
+    2300776: RIM turret base#1
+    2300778: RIM turret base#1 1
+    2300780: Sea Sparrow Launcher
+    2300782: Sea Sparrow Launcher 1
+    2300784: Searchlight
+    2300786: Searchlight 1
+    2300788: SMART-L
+    2300790: Base 1
+    2300792: Base 2
+    2300794: Base 3
+    2300796: Base 4
+    2300798: Command Center
+    2300800: Component#15 1
+    2300802: Component#15 2
+    2300804: Component#15 3
+    2300806: Component#15 4
+    2300808: Component#8
+    2300810: Group 12
+    2300812: Group 40
+    2300814: Group 44
+    2300816: Group 56
+    2300818: Group 76
+    2300820: Group#8 1
+    2300822: Group#8 2
+    2300824: Group#8 3
+    2300826: Group#8 4
+    2300828: Radar
+    3300000: '"Meat Ball"#1'
+    3300002: Anchor
+    3300004: Anchor 1
+    3300006: Arresting gear
+    3300008: Base
+    3300010: Blast doors
+    3300012: Blast doors 1
+    3300014: Blast doors 2
+    3300016: Blast doors 3
+    3300018: Blast doors 4
+    3300020: Blast doors 5
+    3300022: Blast doors 6
+    3300024: Blast doors 7
+    3300026: Blast doors 8
+    3300028: Blast doors 9
+    3300030: //RootNode
+    3300032: Catapult
+    3300034: Catapult 1
+    3300036: Catapult 2
+    3300038: Catapult 3
+    3300040: Component#1
+    3300042: Component#1 1
+    3300044: Component#1 2
+    3300046: Component#1 3
+    3300048: Component#10
+    3300050: Component#10 1
+    3300052: Component#10 2
+    3300054: Component#11
+    3300056: Component#11 1
+    3300058: Component#12
+    3300060: Component#12 1
+    3300062: Component#12 10
+    3300064: Component#12 11
+    3300066: Component#12 2
+    3300068: Component#12 3
+    3300070: Component#12 4
+    3300072: Component#12 5
+    3300074: Component#12 6
+    3300076: Component#12 7
+    3300078: Component#12 8
+    3300080: Component#12 9
+    3300082: Component#13
+    3300084: Component#13 1
+    3300086: Component#13 2
+    3300088: Component#13 3
+    3300090: Component#13 4
+    3300092: Component#13 5
+    3300094: Component#13 6
+    3300096: Component#13 7
+    3300098: Component#14
+    3300100: Component#15
+    3300102: Component#17
+    3300104: Component#17 1
+    3300106: Component#17 10
+    3300108: Component#17 11
+    3300110: Component#17 12
+    3300112: Component#17 13
+    3300114: Component#17 14
+    3300116: Component#17 15
+    3300118: Component#17 16
+    3300120: Component#17 17
+    3300122: Component#17 18
+    3300124: Component#17 19
+    3300126: Component#17 2
+    3300128: Component#17 20
+    3300130: Component#17 21
+    3300132: Component#17 22
+    3300134: Component#17 23
+    3300136: Component#17 24
+    3300138: Component#17 25
+    3300140: Component#17 26
+    3300142: Component#17 27
+    3300144: Component#17 28
+    3300146: Component#17 29
+    3300148: Component#17 3
+    3300150: Component#17 30
+    3300152: Component#17 31
+    3300154: Component#17 32
+    3300156: Component#17 33
+    3300158: Component#17 34
+    3300160: Component#17 35
+    3300162: Component#17 36
+    3300164: Component#17 37
+    3300166: Component#17 38
+    3300168: Component#17 39
+    3300170: Component#17 4
+    3300172: Component#17 40
+    3300174: Component#17 41
+    3300176: Component#17 42
+    3300178: Component#17 43
+    3300180: Component#17 44
+    3300182: Component#17 45
+    3300184: Component#17 46
+    3300186: Component#17 47
+    3300188: Component#17 5
+    3300190: Component#17 6
+    3300192: Component#17 7
+    3300194: Component#17 8
+    3300196: Component#17 9
+    3300198: Component#18
+    3300200: Component#18 1
+    3300202: Component#18 2
+    3300204: Component#18 3
+    3300206: Component#18 4
+    3300208: Component#18 5
+    3300210: Component#18 6
+    3300212: Component#18 7
+    3300214: Component#2
+    3300216: Component#2 1
+    3300218: Component#2 10
+    3300220: Component#2 11
+    3300222: Component#2 12
+    3300224: Component#2 13
+    3300226: Component#2 14
+    3300228: Component#2 15
+    3300230: Component#2 16
+    3300232: Component#2 17
+    3300234: Component#2 18
+    3300236: Component#2 19
+    3300238: Component#2 2
+    3300240: Component#2 20
+    3300242: Component#2 21
+    3300244: Component#2 22
+    3300246: Component#2 23
+    3300248: Component#2 24
+    3300250: Component#2 25
+    3300252: Component#2 26
+    3300254: Component#2 27
+    3300256: Component#2 28
+    3300258: Component#2 29
+    3300260: Component#2 3
+    3300262: Component#2 30
+    3300264: Component#2 31
+    3300266: Component#2 32
+    3300268: Component#2 33
+    3300270: Component#2 34
+    3300272: Component#2 35
+    3300274: Component#2 36
+    3300276: Component#2 37
+    3300278: Component#2 38
+    3300280: Component#2 39
+    3300282: Component#2 4
+    3300284: Component#2 40
+    3300286: Component#2 41
+    3300288: Component#2 42
+    3300290: Component#2 43
+    3300292: Component#2 44
+    3300294: Component#2 45
+    3300296: Component#2 46
+    3300298: Component#2 47
+    3300300: Component#2 48
+    3300302: Component#2 49
+    3300304: Component#2 5
+    3300306: Component#2 50
+    3300308: Component#2 51
+    3300310: Component#2 52
+    3300312: Component#2 53
+    3300314: Component#2 54
+    3300316: Component#2 55
+    3300318: Component#2 56
+    3300320: Component#2 57
+    3300322: Component#2 58
+    3300324: Component#2 59
+    3300326: Component#2 6
+    3300328: Component#2 7
+    3300330: Component#2 8
+    3300332: Component#2 9
+    3300334: Component#3
+    3300336: Component#3 1
+    3300338: Component#3 10
+    3300340: Component#3 11
+    3300342: Component#3 12
+    3300344: Component#3 13
+    3300346: Component#3 14
+    3300348: Component#3 15
+    3300350: Component#3 16
+    3300352: Component#3 17
+    3300354: Component#3 18
+    3300356: Component#3 19
+    3300358: Component#3 2
+    3300360: Component#3 20
+    3300362: Component#3 21
+    3300364: Component#3 22
+    3300366: Component#3 23
+    3300368: Component#3 24
+    3300370: Component#3 25
+    3300372: Component#3 26
+    3300374: Component#3 27
+    3300376: Component#3 28
+    3300378: Component#3 29
+    3300380: Component#3 3
+    3300382: Component#3 30
+    3300384: Component#3 31
+    3300386: Component#3 32
+    3300388: Component#3 33
+    3300390: Component#3 34
+    3300392: Component#3 35
+    3300394: Component#3 36
+    3300396: Component#3 37
+    3300398: Component#3 38
+    3300400: Component#3 39
+    3300402: Component#3 4
+    3300404: Component#3 40
+    3300406: Component#3 41
+    3300408: Component#3 42
+    3300410: Component#3 43
+    3300412: Component#3 44
+    3300414: Component#3 45
+    3300416: Component#3 46
+    3300418: Component#3 47
+    3300420: Component#3 48
+    3300422: Component#3 49
+    3300424: Component#3 5
+    3300426: Component#3 50
+    3300428: Component#3 51
+    3300430: Component#3 52
+    3300432: Component#3 53
+    3300434: Component#3 54
+    3300436: Component#3 55
+    3300438: Component#3 56
+    3300440: Component#3 57
+    3300442: Component#3 58
+    3300444: Component#3 59
+    3300446: Component#3 6
+    3300448: Component#3 7
+    3300450: Component#3 8
+    3300452: Component#3 9
+    3300454: Component#34
+    3300456: Component#34 1
+    3300458: Component#34 2
+    3300460: Component#34 3
+    3300462: Component#34 4
+    3300464: Component#34 5
+    3300466: Component#4
+    3300468: Component#5
+    3300470: Component#6
+    3300472: Component#7
+    3300474: Component#7 1
+    3300476: Component#7 2
+    3300478: Component#7 3
+    3300480: Component#7 4
+    3300482: Component#7 5
+    3300484: Component#7 6
+    3300486: Component#7 7
+    3300488: Component#7 8
+    3300490: Component#7 9
+    3300492: Component#9
+    3300494: Component#9 1
+    3300496: Group 4
+    3300498: Group 610
+    3300500: Group 706
+    3300502: Group 832
+    3300504: Group 836
+    3300506: Group#8
+    3300508: Hangar blast doors
+    3300510: Hangar blast doors 1
+    3300512: Hangar blast doors 2
+    3300514: Hangar blast doors 3
+    3300516: Missile launcher#1
+    3300518: Missile launcher#1 1
+    3300520: MK-8 liferaft
+    3300522: MK-8 liferaft 1
+    3300524: MK-8 liferaft 10
+    3300526: MK-8 liferaft 100
+    3300528: MK-8 liferaft 101
+    3300530: MK-8 liferaft 102
+    3300532: MK-8 liferaft 103
+    3300534: MK-8 liferaft 104
+    3300536: MK-8 liferaft 105
+    3300538: MK-8 liferaft 106
+    3300540: MK-8 liferaft 107
+    3300542: MK-8 liferaft 108
+    3300544: MK-8 liferaft 109
+    3300546: MK-8 liferaft 11
+    3300548: MK-8 liferaft 110
+    3300550: MK-8 liferaft 111
+    3300552: MK-8 liferaft 112
+    3300554: MK-8 liferaft 113
+    3300556: MK-8 liferaft 114
+    3300558: MK-8 liferaft 115
+    3300560: MK-8 liferaft 116
+    3300562: MK-8 liferaft 117
+    3300564: MK-8 liferaft 118
+    3300566: MK-8 liferaft 119
+    3300568: MK-8 liferaft 12
+    3300570: MK-8 liferaft 13
+    3300572: MK-8 liferaft 14
+    3300574: MK-8 liferaft 15
+    3300576: MK-8 liferaft 16
+    3300578: MK-8 liferaft 17
+    3300580: MK-8 liferaft 18
+    3300582: MK-8 liferaft 19
+    3300584: MK-8 liferaft 2
+    3300586: MK-8 liferaft 20
+    3300588: MK-8 liferaft 21
+    3300590: MK-8 liferaft 22
+    3300592: MK-8 liferaft 23
+    3300594: MK-8 liferaft 24
+    3300596: MK-8 liferaft 25
+    3300598: MK-8 liferaft 26
+    3300600: MK-8 liferaft 27
+    3300602: MK-8 liferaft 28
+    3300604: MK-8 liferaft 29
+    3300606: MK-8 liferaft 3
+    3300608: MK-8 liferaft 30
+    3300610: MK-8 liferaft 31
+    3300612: MK-8 liferaft 32
+    3300614: MK-8 liferaft 33
+    3300616: MK-8 liferaft 34
+    3300618: MK-8 liferaft 35
+    3300620: MK-8 liferaft 36
+    3300622: MK-8 liferaft 37
+    3300624: MK-8 liferaft 38
+    3300626: MK-8 liferaft 39
+    3300628: MK-8 liferaft 4
+    3300630: MK-8 liferaft 40
+    3300632: MK-8 liferaft 41
+    3300634: MK-8 liferaft 42
+    3300636: MK-8 liferaft 43
+    3300638: MK-8 liferaft 44
+    3300640: MK-8 liferaft 45
+    3300642: MK-8 liferaft 46
+    3300644: MK-8 liferaft 47
+    3300646: MK-8 liferaft 48
+    3300648: MK-8 liferaft 49
+    3300650: MK-8 liferaft 5
+    3300652: MK-8 liferaft 50
+    3300654: MK-8 liferaft 51
+    3300656: MK-8 liferaft 52
+    3300658: MK-8 liferaft 53
+    3300660: MK-8 liferaft 54
+    3300662: MK-8 liferaft 55
+    3300664: MK-8 liferaft 56
+    3300666: MK-8 liferaft 57
+    3300668: MK-8 liferaft 58
+    3300670: MK-8 liferaft 59
+    3300672: MK-8 liferaft 6
+    3300674: MK-8 liferaft 60
+    3300676: MK-8 liferaft 61
+    3300678: MK-8 liferaft 62
+    3300680: MK-8 liferaft 63
+    3300682: MK-8 liferaft 64
+    3300684: MK-8 liferaft 65
+    3300686: MK-8 liferaft 66
+    3300688: MK-8 liferaft 67
+    3300690: MK-8 liferaft 68
+    3300692: MK-8 liferaft 69
+    3300694: MK-8 liferaft 7
+    3300696: MK-8 liferaft 70
+    3300698: MK-8 liferaft 71
+    3300700: MK-8 liferaft 72
+    3300702: MK-8 liferaft 73
+    3300704: MK-8 liferaft 74
+    3300706: MK-8 liferaft 75
+    3300708: MK-8 liferaft 76
+    3300710: MK-8 liferaft 77
+    3300712: MK-8 liferaft 78
+    3300714: MK-8 liferaft 79
+    3300716: MK-8 liferaft 8
+    3300718: MK-8 liferaft 80
+    3300720: MK-8 liferaft 81
+    3300722: MK-8 liferaft 82
+    3300724: MK-8 liferaft 83
+    3300726: MK-8 liferaft 84
+    3300728: MK-8 liferaft 85
+    3300730: MK-8 liferaft 86
+    3300732: MK-8 liferaft 87
+    3300734: MK-8 liferaft 88
+    3300736: MK-8 liferaft 89
+    3300738: MK-8 liferaft 9
+    3300740: MK-8 liferaft 90
+    3300742: MK-8 liferaft 91
+    3300744: MK-8 liferaft 92
+    3300746: MK-8 liferaft 93
+    3300748: MK-8 liferaft 94
+    3300750: MK-8 liferaft 95
+    3300752: MK-8 liferaft 96
+    3300754: MK-8 liferaft 97
+    3300756: MK-8 liferaft 98
+    3300758: MK-8 liferaft 99
+    3300760: MK41 VLS
+    3300762: MK41 VLS 1
+    3300764: MK41 VLS 2
+    3300766: MK41 VLS 3
+    3300768: MK41 VLS 4
+    3300770: MK41 VLS 5
+    3300772: RIM 116
+    3300774: RIM 116 1
+    3300776: RIM turret base#1
+    3300778: RIM turret base#1 1
+    3300780: Sea Sparrow Launcher
+    3300782: Sea Sparrow Launcher 1
+    3300784: Searchlight
+    3300786: Searchlight 1
+    3300788: SMART-L
+    3300790: Base 1
+    3300792: Base 2
+    3300794: Base 3
+    3300796: Base 4
+    3300798: Command Center
+    3300800: Component#15 1
+    3300802: Component#15 2
+    3300804: Component#15 3
+    3300806: Component#15 4
+    3300808: Component#8
+    3300810: Group 12
+    3300812: Group 40
+    3300814: Group 44
+    3300816: Group 56
+    3300818: Group 76
+    3300820: Group#8 1
+    3300822: Group#8 2
+    3300824: Group#8 3
+    3300826: Group#8 4
+    3300828: Radar
+    4300000: Mesh Carrier
+    4300002: Mesh Arresting gear
+    4300004: Mesh Group 4
+    4300006: Mesh Component#6
+    4300008: Mesh MK-8 liferaft
+    4300010: Mesh Component#2
+    4300012: Mesh Component#3
+    4300014: Mesh Component#15
+    4300016: Mesh Group#8
+    4300018: Mesh Base
+    4300020: Mesh Component#14
+    4300022: Mesh Hangar blast doors
+    4300024: Mesh Component#5
+    4300026: Mesh Blast doors
+    4300028: Mesh Component#7
+    4300030: Mesh Catapult
+    4300032: Mesh Component#10
+    4300034: Mesh Component#4
+    4300036: Mesh MK41 VLS
+    4300038: Mesh Component#34
+    4300040: Mesh Component#17
+    4300042: Mesh Anchor
+    4300044: Mesh RIM 116
+    4300046: Mesh RIM turret base#1
+    4300048: Mesh Missile launcher#1
+    4300050: Mesh Group 610
+    4300052: Mesh Component#12
+    4300054: Mesh Component#9
+    4300056: Mesh Sea Sparrow Launcher
+    4300058: Mesh Component#11
+    4300060: Mesh Component#13
+    4300062: Mesh Component#18
+    4300064: Mesh Component#1
+    4300066: Mesh "Meat Ball"#1
+    4300068: Mesh SMART-L
+    4300070: Mesh Searchlight
+    4300072: Mesh Group 832
+    4300074: Mesh Radar
+    4300076: Mesh Component#8
+    4300078: Mesh Command Center
+    4300080: Mesh Group 12
+    4300082: Mesh Group 40
+    4300084: Mesh Group 56
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
