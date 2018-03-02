@@ -15,7 +15,7 @@ public class Env : MonoBehaviour {
 
     private GameObject goVR;
     private Camera mainCamera;
-    private int zoom = 1;
+    private int zoom = 0;
     private float[] layerCullDistances;
 
     private AudioSource music;
@@ -44,7 +44,7 @@ public class Env : MonoBehaviour {
         {
             Vector3 pos = Vector3.zero;
 
-            pos = new Vector3(current3DObject.transform.position.x + (1 + zoom) * 2, current3DObject.transform.position.y + (1 + zoom) * 5, current3DObject.transform.position.z - (1 + zoom) * 12);
+            pos = new Vector3(current3DObject.transform.position.x + (1 + zoom) * 2, current3DObject.transform.position.y + (1 + zoom) * 4, current3DObject.transform.position.z - (1 + zoom) * 10);
 
             goVR.transform.position = pos;
         }
